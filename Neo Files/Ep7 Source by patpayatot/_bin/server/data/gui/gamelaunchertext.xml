@@ -1,0 +1,50 @@
+//Version 2.4 by QiangQiang101
+[LAUNCHER]
+BGM=http://www.youtube.com/watch?v=RppxdLPS8Oo
+Caption=Pride Gaming Online v. 1
+Caption1=Choice Area
+Caption2=Choice Connection Area
+Button1=Play Pride-Ran
+Button2=Mendaftar
+Button3=Control Panel
+Button4=Facebook Fans
+Button5=Pride-Ran Online Help
+Button6=PR News
+Button7=Exit
+Copyright=Pride Gaming Online Inc.
+BGImage=False
+//Use New BGImage = True
+//Use Old BGImage = False
+Excute=\Game.exe
+//
+[GUI]
+Gui_Top_Line1=-Pride Gaming Inc.
+Gui_Top_Line2=Rhie Aburame
+Gui_Top_Line3=Play Hard Study Harder
+Gui_Bottom_Line1=Pride RAN Online
+Gui_Bottom_Line2=Copyright (C) Pride RAN Online All Rights Reserved.
+Gui_Bottom_Line3=Customer Service HP : 09994925386| FB: Rhie Aburame
+//
+[HELP]
+Title=Pride RAN Online Help
+Help=http:pridegames.famhadev.com/
+//Eng:http://googoe.cz.cc/ran/eng/help.htm
+//Cht:http://googoe.cz.cc/ran/cht/help.htm
+//Chs:http://googoe.cz.cc/ran/chs/help.htm
+//Who Can give me English Version help file?
+//
+[NEWS]
+Title=Pride RAN Online News
+News=http://pridegames.famhadev.com/
+Button1=OK
+//
+[BROWSER]
+Browser1=http://pridegames.famhadev.com/
+Browser2=http://Pride-server.com/
+Browser3=https://www.facebook.com/prideranreloaded
+Browser1Cap=Pride  RAN Online Register
+Browser2Cap=Pride  RAN Online Website
+Browser3Cap=Pride  RAN Online Facebook Fans
+//
+[AUTOPATCH]
+Title=AutoPatch

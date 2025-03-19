@@ -1,0 +1,1277 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<TEXT>
+<SENTENSE Ver="1" Id="COPYRIGHT_COMPANY">
+<VALUE Lang="me">Zoe Gaming Online</VALUE>
+<VALUE Lang="me">Episode 7 Version 1</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="COPYRIGHT_COMPANY_LOAD">
+<VALUE Lang="me">Come and experience Non-Stop thrill and balance gameplay.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="GATE_ALARM">
+<VALUE Lang="me">As if moving,Please Press the</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="STORAGE_TIMELEFT">
+<VALUE Lang="me">%d Year %d Month %d Day</VALUE>
+<VALUE Lang="me">%d Time %d Minute only</VALUE>
+</SENTENSE>
+<WORD Ver="1" Id="ACADEMY_NAME">
+<VALUE Lang="me" Index="0">Sacred Gate</VALUE>
+<VALUE Lang="me" Index="1">Mytic Peak</VALUE>
+<VALUE Lang="me" Index="2">Pheonix</VALUE>
+</WORD>
+<WORD Ver="1" Id="ADMIN_NAME">
+<VALUE Lang="me" Index="0">GM</VALUE>
+</WORD>
+<WORD Ver="1" Id="ARROW_TYPE">
+<VALUE Lang="me" Index="0">Arrow</VALUE>
+<VALUE Lang="me" Index="1">Magic Incantations</VALUE>
+</WORD>
+<WORD Ver="1" Id="BIG_FONT">
+<VALUE Lang="Common" Index="0">1</VALUE>
+<VALUE Lang="me" Index="0">1</VALUE>
+</WORD>
+<WORD Ver="1" Id="BUS_TITLE">
+<VALUE Lang="me" Index="0">Secssion</VALUE>
+<VALUE Lang="me" Index="1">Bus Station</VALUE>
+</WORD>
+<WORD Ver="1" Id="BUS_WINDOW_NAME_STATIC">
+<VALUE Lang="me" Index="0">Bus</VALUE>
+</WORD>
+<WORD Ver="1" Id="CANCEL">
+<VALUE Lang="Common" Index="0">Cancel</VALUE>
+<VALUE Lang="me" Index="0">Cancel</VALUE>
+</WORD>
+<WORD Ver="1" Id="CHARACTER_EXP_STATIC">
+<VALUE Lang="me" Index="0">EXP</VALUE>
+</WORD>
+<WORD Ver="1" Id="CHARACTER_MOBILE_BUTTON">
+<VALUE Lang="me" Index="0">Make Phone number list</VALUE>
+</WORD>
+<WORD Ver="1" Id="CHARACTER_NAME_STATIC">
+<VALUE Lang="me" Index="0">Character</VALUE>
+</WORD>
+<WORD Ver="1" Id="CHARACTER_PREMIUM_EXPIRE_DATE">
+<VALUE Lang="me" Index="0">%d Year %d Month %d Day %d Time %d Minute</VALUE>
+</WORD>
+<WORD Ver="1" Id="CHARACTER_PREMIUM_EXPIRE_DATE_STATIC">
+<VALUE Lang="me" Index="0">Day of Premium service expire</VALUE>
+</WORD>
+<WORD Ver="1" Id="CHARACTER_RESI_STATIC">
+<VALUE Lang="me" Index="0">Power Resistence</VALUE>
+<VALUE Lang="me" Index="1">Fire Resistence</VALUE>
+<VALUE Lang="me" Index="2">Ice Resistence</VALUE>
+<VALUE Lang="me" Index="3">Electric Resistence</VALUE>
+<VALUE Lang="me" Index="4">Poison Resistence</VALUE>
+<VALUE Lang="me" Index="5">Air Resistence</VALUE>
+</WORD>
+<WORD Ver="1" Id="CHARACTER_SOCIAL_STATIC">
+<VALUE Lang="me" Index="0">Society's Value</VALUE>
+<VALUE Lang="me" Index="1">School</VALUE>
+<VALUE Lang="me" Index="2">Life_pt</VALUE>
+<VALUE Lang="me" Index="3">Rank</VALUE>
+<VALUE Lang="me" Index="4">Class</VALUE>
+<VALUE Lang="me" Index="5">Attr</VALUE>
+<VALUE Lang="me" Index="6">Status</VALUE>
+</WORD>
+<WORD Ver="1" Id="CHARACTER_STAT_STATIC">
+<VALUE Lang="me" Index="0">Pow</VALUE>
+<VALUE Lang="me" Index="1">Dex</VALUE>
+<VALUE Lang="me" Index="2">Int</VALUE>
+<VALUE Lang="me" Index="3">Int</VALUE>
+<VALUE Lang="me" Index="4">Vit</VALUE>
+<VALUE Lang="me" Index="5">Stm</VALUE>
+</WORD>
+<WORD Ver="1" Id="CHARACTER_STATUS_STATIC">
+<VALUE Lang="me" Index="0">Condition</VALUE>
+<VALUE Lang="me" Index="1">Level</VALUE>
+<VALUE Lang="me" Index="2">Attack</VALUE>
+<VALUE Lang="me" Index="3">Defence</VALUE>
+<VALUE Lang="me" Index="4">Wrestle</VALUE>
+<VALUE Lang="me" Index="5">Shoot</VALUE>
+<VALUE Lang="me" Index="6">HP</VALUE>
+<VALUE Lang="me" Index="7">MP</VALUE>
+<VALUE Lang="me" Index="8">SP</VALUE>
+<VALUE Lang="me" Index="9">Hit Rate</VALUE>
+<VALUE Lang="me" Index="10">Avoid Rate</VALUE>
+<VALUE Lang="me" Index="11">Energy Value</VALUE>
+<VALUE Lang="me" Index="12">Day Ended</VALUE>
+</WORD>
+<WORD Ver="1" Id="CHAT_CHANNEL_BUTTON">
+<VALUE Lang="me" Index="0">All</VALUE>
+<VALUE Lang="me" Index="1">Whisper</VALUE>
+<VALUE Lang="me" Index="2">Party</VALUE>
+<VALUE Lang="me" Index="3">Gang</VALUE>
+<VALUE Lang="me" Index="4">System</VALUE>
+<VALUE Lang="me" Index="5">League</VALUE>
+</WORD>
+<WORD Ver="1" Id="CHAT_ONOFF">
+<VALUE Lang="me" Index="0">General</VALUE>
+<VALUE Lang="me" Index="1">Whisper</VALUE>
+<VALUE Lang="me" Index="2">Party</VALUE>
+<VALUE Lang="me" Index="3">Organization</VALUE>
+<VALUE Lang="me" Index="4">System</VALUE>
+<VALUE Lang="me" Index="5">Alliance</VALUE>
+</WORD>
+<WORD Ver="1" Id="CHATMACRO_KEYTEXT">
+<VALUE Lang="me" Index="0">Alt + 1</VALUE>
+<VALUE Lang="me" Index="1">Alt + 2</VALUE>
+<VALUE Lang="me" Index="2">Alt + 3</VALUE>
+<VALUE Lang="me" Index="3">Alt + 4</VALUE>
+<VALUE Lang="me" Index="4">Alt + 5</VALUE>
+<VALUE Lang="me" Index="5">Alt + 6</VALUE>
+<VALUE Lang="me" Index="6">Alt + 7</VALUE>
+<VALUE Lang="me" Index="7">Alt + 8</VALUE>
+<VALUE Lang="me" Index="8">Alt + 9</VALUE>
+<VALUE Lang="me" Index="9">Alt + 0</VALUE>
+</WORD>
+<WORD Ver="1" Id="CHATMACRO_OKBUTTON">
+<VALUE Lang="me" Index="0">OK</VALUE>
+</WORD>
+<WORD Ver="1" Id="CHATMACRO_WINDOW_NAME_STATIC">
+<VALUE Lang="me" Index="0">Chat Macro</VALUE>
+</WORD>
+<WORD Ver="1" Id="CLUB_BATTLE_TIME">
+<VALUE Lang="me" Index="0">remain time</VALUE>
+</WORD>
+<WORD Ver="1" Id="CLUB_BUTTON">
+<VALUE Lang="me" Index="0">Expel</VALUE>
+<VALUE Lang="me" Index="1">Dismiss</VALUE>
+<VALUE Lang="me" Index="2">Modification</VALUE>
+<VALUE Lang="me" Index="3">Close</VALUE>
+<VALUE Lang="me" Index="4">Amend username</VALUE>
+<VALUE Lang="me" Index="5">Cancel Dismission</VALUE>
+<VALUE Lang="me" Index="6">Withdraw</VALUE>
+<VALUE Lang="me" Index="7">Member</VALUE>
+<VALUE Lang="me" Index="8">Announment</VALUE>
+<VALUE Lang="me" Index="9">Alliance</VALUE>
+<VALUE Lang="me" Index="10">Compose</VALUE>
+<VALUE Lang="me" Index="11">Assist Senior Officer Founded</VALUE>
+<VALUE Lang="me" Index="12">All Cancel</VALUE>
+</WORD>
+<WORD Ver="1" Id="CLUB_GRADE">
+<VALUE Lang="Common" Index="0">E</VALUE>
+<VALUE Lang="me" Index="0">E</VALUE>
+<VALUE Lang="Common" Index="1">D</VALUE>
+<VALUE Lang="me" Index="1">D</VALUE>
+<VALUE Lang="Common" Index="2">C</VALUE>
+<VALUE Lang="me" Index="2">C</VALUE>
+<VALUE Lang="Common" Index="3">B</VALUE>
+<VALUE Lang="me" Index="3">B</VALUE>
+<VALUE Lang="Common" Index="4">A</VALUE>
+<VALUE Lang="me" Index="4">A</VALUE>
+</WORD>
+<WORD Ver="1" Id="CLUB_STORAGE_NAME_STATIC">
+<VALUE Lang="me" Index="0">Matter placement organization Box</VALUE>
+</WORD>
+<WORD Ver="1" Id="CLUB_TEXT_STATIC">
+<VALUE Lang="me" Index="0">Name</VALUE>
+<VALUE Lang="me" Index="1">Level</VALUE>
+<VALUE Lang="me" Index="2">Senior Officer</VALUE>
+<VALUE Lang="me" Index="3">Found's Date</VALUE>
+<VALUE Lang="me" Index="4">Badge</VALUE>
+<VALUE Lang="me" Index="5">Dismissal</VALUE>
+<VALUE Lang="me" Index="6">Alternative Name</VALUE>
+<VALUE Lang="me" Index="7">Assist Senoir Officer</VALUE>
+<VALUE Lang="me" Index="8">General</VALUE>
+</WORD>
+<WORD Ver="1" Id="CLUB_WINDOW_NAME_STATIC">
+<VALUE Lang="me" Index="0">Organization</VALUE>
+</WORD>
+<WORD Ver="1" Id="CONFT_MODAL_CONDITION">
+<VALUE Lang="me" Index="0">Restricted Range</VALUE>
+<VALUE Lang="me" Index="1">Recovery Dose Amount Usage</VALUE>
+<VALUE Lang="me" Index="2">HP Rate Enlargement</VALUE>
+</WORD>
+<WORD Ver="1" Id="CONFT_MODAL_TITLE">
+<VALUE Lang="me" Index="0">Apply to conquer</VALUE>
+<VALUE Lang="me" Index="1">Conquer Application' s Information</VALUE>
+</WORD>
+<WORD Ver="1" Id="CONFT_WAV_BEGIN">
+<VALUE Lang="Common" Index="0">Fight.WAV</VALUE>
+<VALUE Lang="me" Index="0">Fight.WAV</VALUE>
+<VALUE Lang="Common" Index="1">cd01.WAV</VALUE>
+<VALUE Lang="me" Index="1">cd01.WAV</VALUE>
+<VALUE Lang="Common" Index="2">cd02.WAV</VALUE>
+<VALUE Lang="me" Index="2">cd02.WAV</VALUE>
+<VALUE Lang="Common" Index="3">cd03.WAV</VALUE>
+<VALUE Lang="me" Index="3">cd03.WAV</VALUE>
+<VALUE Lang="Common" Index="4">cd04.WAV</VALUE>
+<VALUE Lang="me" Index="4">cd04.WAV</VALUE>
+<VALUE Lang="Common" Index="5">cd05.WAV</VALUE>
+<VALUE Lang="me" Index="5">cd05.WAV</VALUE>
+</WORD>
+<WORD Ver="1" Id="CONFT_WAV_END">
+<VALUE Lang="Common" Index="0">Win.wav</VALUE>
+<VALUE Lang="me" Index="0">Win.wav</VALUE>
+<VALUE Lang="Common" Index="1">Lost.wav</VALUE>
+<VALUE Lang="me" Index="1">Lost.wav</VALUE>
+<VALUE Lang="Common" Index="2">Draw.wav</VALUE>
+<VALUE Lang="me" Index="2">Draw.wav</VALUE>
+</WORD>
+<WORD Ver="1" Id="COPYRIGHT_TITLE">
+<VALUE Lang="me" Index="0">ZoeRan Online</VALUE>
+</WORD>
+<WORD Ver="1" Id="CREATE">
+<VALUE Lang="Common" Index="0">Create</VALUE>
+<VALUE Lang="me" Index="0">Create</VALUE>
+</WORD>
+<WORD Ver="1" Id="CREATE_CHARACTER_PAGE">
+<VALUE Lang="me" Index="0">Create New Character</VALUE>
+<VALUE Lang="me" Index="1">Character Information</VALUE>
+</WORD>
+<WORD Ver="1" Id="CREATE_CHARACTER_PAGE_OKCANCEL">
+<VALUE Lang="me" Index="0">Ok</VALUE>
+<VALUE Lang="me" Index="1">Cancel</VALUE>
+</WORD>
+<WORD Ver="1" Id="CREATE_CHARACTER_PAGE_STATIC">
+<VALUE Lang="me" Index="0">College</VALUE>
+<VALUE Lang="me" Index="1">Class</VALUE>
+<VALUE Lang="me" Index="2">Face</VALUE>
+<VALUE Lang="me" Index="3">Hair</VALUE>
+<VALUE Lang="me" Index="4">Name</VALUE>
+<VALUE Lang="me" Index="5">Basic feel</VALUE>
+<VALUE Lang="Common" Index="6">Sex</VALUE>
+<VALUE Lang="me" Index="6">Sex</VALUE>
+<VALUE Lang="Common" Index="7">Hair Color</VALUE>
+<VALUE Lang="me" Index="7">Hair Color</VALUE>
+</WORD>
+<WORD Ver="1" Id="DELETE">
+<VALUE Lang="Common" Index="0">Delete</VALUE>
+<VALUE Lang="me" Index="0">Delete</VALUE>
+</WORD>
+<WORD Ver="1" Id="DIALOGUE_WINDOW_STATIC">
+<VALUE Lang="me" Index="0">Carry on Dialogue</VALUE>
+</WORD>
+<WORD Ver="1" Id="ESC_MENU">
+<VALUE Lang="me" Index="0">Select character</VALUE>
+<VALUE Lang="me" Index="1">Exit</VALUE>
+<VALUE Lang="me" Index="2">Option</VALUE>
+<VALUE Lang="me" Index="3">Help</VALUE>
+<VALUE Lang="me" Index="4">Game Over</VALUE>
+<VALUE Lang="me" Index="5">ShortKey Set</VALUE>
+</WORD>
+<WORD Ver="1" Id="FACE_NAME_ARCHER">
+<VALUE Lang="me" Index="0">TypeA</VALUE>
+<VALUE Lang="me" Index="1">TypeB</VALUE>
+<VALUE Lang="me" Index="2">TypeC</VALUE>
+<VALUE Lang="me" Index="3">TypeD</VALUE>
+<VALUE Lang="me" Index="4">TypeE</VALUE>
+<VALUE Lang="me" Index="5">TypeF</VALUE>
+<VALUE Lang="me" Index="6">TypeG</VALUE>
+<VALUE Lang="me" Index="7">TypeH</VALUE>
+<VALUE Lang="me" Index="8">TypeI</VALUE>
+<VALUE Lang="me" Index="9">TypeJ</VALUE>
+</WORD>
+<WORD Ver="1" Id="FACE_NAME_ARMS">
+<VALUE Lang="me" Index="0">TypeA</VALUE>
+<VALUE Lang="me" Index="1">TypeB</VALUE>
+<VALUE Lang="me" Index="2">TypeC</VALUE>
+<VALUE Lang="me" Index="3">TypeD</VALUE>
+<VALUE Lang="me" Index="4">TypeE</VALUE>
+<VALUE Lang="me" Index="5">TypeF</VALUE>
+<VALUE Lang="me" Index="6">TypeG</VALUE>
+<VALUE Lang="me" Index="7">TypeH</VALUE>
+<VALUE Lang="me" Index="8">TypeI</VALUE>
+<VALUE Lang="me" Index="9">TypeJ</VALUE>
+</WORD>
+<WORD Ver="1" Id="FACE_NAME_EXTREME_M">
+<VALUE Lang="me" Index="0">TypeA</VALUE>
+<VALUE Lang="me" Index="1">TypeB</VALUE>
+<VALUE Lang="me" Index="2">TypeC</VALUE>
+<VALUE Lang="me" Index="3">TypeD</VALUE>
+<VALUE Lang="me" Index="4">TypeE</VALUE>
+<VALUE Lang="me" Index="5">TypeF</VALUE>
+<VALUE Lang="me" Index="6">TypeG</VALUE>
+<VALUE Lang="me" Index="7">TypeH</VALUE>
+<VALUE Lang="me" Index="8">TypeI</VALUE>
+<VALUE Lang="me" Index="9">TypeJ</VALUE>
+</WORD>
+<WORD Ver="1" Id="FACE_NAME_EXTREME_W">
+<VALUE Lang="me" Index="0">TypeA</VALUE>
+<VALUE Lang="me" Index="1">TypeB</VALUE>
+<VALUE Lang="me" Index="2">TypeC</VALUE>
+<VALUE Lang="me" Index="3">TypeD</VALUE>
+<VALUE Lang="me" Index="4">TypeE</VALUE>
+<VALUE Lang="me" Index="5">TypeF</VALUE>
+<VALUE Lang="me" Index="6">TypeG</VALUE>
+<VALUE Lang="me" Index="7">TypeH</VALUE>
+<VALUE Lang="me" Index="8">TypeI</VALUE>
+<VALUE Lang="me" Index="9">TypeJ</VALUE>
+</WORD>
+<WORD Ver="1" Id="FACE_NAME_FIGHTER">
+<VALUE Lang="me" Index="0">TypeA</VALUE>
+<VALUE Lang="me" Index="1">TypeB</VALUE>
+<VALUE Lang="me" Index="2">TypeC</VALUE>
+<VALUE Lang="me" Index="3">TypeD</VALUE>
+<VALUE Lang="me" Index="4">TypeE</VALUE>
+<VALUE Lang="me" Index="5">TypeF</VALUE>
+<VALUE Lang="me" Index="6">TypeG</VALUE>
+<VALUE Lang="me" Index="7">TypeH</VALUE>
+<VALUE Lang="me" Index="8">TypeI</VALUE>
+<VALUE Lang="me" Index="9">TypeJ</VALUE>
+</WORD>
+<WORD Ver="1" Id="FACE_NAME_SPIRIT">
+<VALUE Lang="me" Index="0">TypeA</VALUE>
+<VALUE Lang="me" Index="1">TypeB</VALUE>
+<VALUE Lang="me" Index="2">TypeC</VALUE>
+<VALUE Lang="me" Index="3">TypeD</VALUE>
+<VALUE Lang="me" Index="4">TypeE</VALUE>
+<VALUE Lang="me" Index="5">TypeF</VALUE>
+<VALUE Lang="me" Index="6">TypeG</VALUE>
+<VALUE Lang="me" Index="7">TypeH</VALUE>
+<VALUE Lang="me" Index="8">TypeI</VALUE>
+<VALUE Lang="me" Index="9">TypeJ</VALUE>
+</WORD>
+<WORD Ver="1" Id="FRIEND_BUTTON">
+<VALUE Lang="me" Index="0">Add Friends</VALUE>
+<VALUE Lang="me" Index="1">Delete</VALUE>
+<VALUE Lang="me" Index="2">Move</VALUE>
+<VALUE Lang="me" Index="3">Remove</VALUE>
+<VALUE Lang="me" Index="4">Blocked</VALUE>
+<VALUE Lang="me" Index="5">Name</VALUE>
+<VALUE Lang="me" Index="6">Topic</VALUE>
+<VALUE Lang="me" Index="7">Reply</VALUE>
+<VALUE Lang="me" Index="8">Initiate</VALUE>
+<VALUE Lang="me" Index="9">Anew amendment</VALUE>
+<VALUE Lang="me" Index="10">Send out</VALUE>
+<VALUE Lang="me" Index="11">Rewrite.</VALUE>
+<VALUE Lang="me" Index="12">Send SMS</VALUE>
+<VALUE Lang="me" Index="13">Cancel</VALUE>
+<VALUE Lang="me" Index="14">Take :</VALUE>
+<VALUE Lang="me" Index="15">SMS</VALUE>
+</WORD>
+<WORD Ver="1" Id="FRIEND_TAB_BUTTON">
+<VALUE Lang="me" Index="0">Friends Menu</VALUE>
+<VALUE Lang="me" Index="1">Blocked Menu</VALUE>
+<VALUE Lang="me" Index="2">Received Message</VALUE>
+<VALUE Lang="me" Index="3">Sended Message</VALUE>
+<VALUE Lang="me" Index="4">Delivered Message</VALUE>
+<VALUE Lang="me" Index="5">Message</VALUE>
+</WORD>
+<WORD Ver="1" Id="FRIEND_WINDOW_NAME_STATIC">
+<VALUE Lang="me" Index="0">Friends</VALUE>
+</WORD>
+<WORD Ver="1" Id="GAMBLE_BETGET">
+<VALUE Lang="me" Index="0">娱乐金额</VALUE>
+<VALUE Lang="me" Index="1">分配金额</VALUE>
+</WORD>
+<WORD Ver="1" Id="GAMBLE_NAME_STATIC">
+<VALUE Lang="me" Index="0">simple gamble</VALUE>
+</WORD>
+<WORD Ver="1" Id="GAMBLE_OKCANCEL">
+<VALUE Lang="me" Index="0">确认</VALUE>
+<VALUE Lang="me" Index="1">取消</VALUE>
+<VALUE Lang="me" Index="2">重新输入</VALUE>
+</WORD>
+<WORD Ver="1" Id="GAMEMENU">
+<VALUE Lang="me" Index="0">Inventory(I)</VALUE>
+<VALUE Lang="me" Index="1">Character(c)</VALUE>
+<VALUE Lang="me" Index="2">Skill(K)</VALUE>
+<VALUE Lang="me" Index="3">Party(P)</VALUE>
+<VALUE Lang="me" Index="4">Mission(T)</VALUE>
+<VALUE Lang="me" Index="5">Club(G)</VALUE>
+<VALUE Lang="me" Index="6">Friends(F)</VALUE>
+<VALUE Lang="me" Index="7">Map(M)</VALUE>
+<VALUE Lang="me" Index="8">Item Bank (B)</VALUE>
+<VALUE Lang="me" Index="9">Jog/Walk(R)</VALUE>
+<VALUE Lang="me" Index="10">itemshop(U)</VALUE>
+<VALUE Lang="me" Index="11">ChatMacro(J)</VALUE>
+</WORD>
+<WORD Ver="1" Id="HAIR_NAME_ARCHER">
+<VALUE Lang="me" Index="0">TypeA</VALUE>
+<VALUE Lang="me" Index="1">TypeB</VALUE>
+<VALUE Lang="me" Index="2">TypeC</VALUE>
+<VALUE Lang="me" Index="3">TypeD</VALUE>
+<VALUE Lang="me" Index="4">TypeE</VALUE>
+<VALUE Lang="me" Index="5">TypeF</VALUE>
+<VALUE Lang="me" Index="6">TypeG</VALUE>
+<VALUE Lang="me" Index="7">TypeH</VALUE>
+<VALUE Lang="me" Index="8">TypeI</VALUE>
+<VALUE Lang="me" Index="9">TypeJ</VALUE>
+</WORD>
+<WORD Ver="1" Id="HAIR_NAME_ARMS">
+<VALUE Lang="me" Index="0">TypeA</VALUE>
+<VALUE Lang="me" Index="1">TypeB</VALUE>
+<VALUE Lang="me" Index="2">TypeC</VALUE>
+<VALUE Lang="me" Index="3">TypeD</VALUE>
+<VALUE Lang="me" Index="4">TypeE</VALUE>
+<VALUE Lang="me" Index="5">TypeF</VALUE>
+<VALUE Lang="me" Index="6">TypeG</VALUE>
+<VALUE Lang="me" Index="7">TypeH</VALUE>
+<VALUE Lang="me" Index="8">TypeI</VALUE>
+<VALUE Lang="me" Index="9">TypeJ</VALUE>
+</WORD>
+<WORD Ver="1" Id="HAIR_NAME_EXTREME_M">
+<VALUE Lang="me" Index="0">TypeA</VALUE>
+<VALUE Lang="me" Index="1">TypeB</VALUE>
+<VALUE Lang="me" Index="2">TypeC</VALUE>
+<VALUE Lang="me" Index="3">TypeD</VALUE>
+<VALUE Lang="me" Index="4">TypeE</VALUE>
+<VALUE Lang="me" Index="5">TypeF</VALUE>
+<VALUE Lang="me" Index="6">TypeG</VALUE>
+<VALUE Lang="me" Index="7">TypeH</VALUE>
+<VALUE Lang="me" Index="8">TypeI</VALUE>
+<VALUE Lang="me" Index="9">TypeJ</VALUE>
+</WORD>
+<WORD Ver="1" Id="HAIR_NAME_EXTREME_W">
+<VALUE Lang="me" Index="0">TypeA</VALUE>
+<VALUE Lang="me" Index="1">TypeB</VALUE>
+<VALUE Lang="me" Index="2">TypeC</VALUE>
+<VALUE Lang="me" Index="3">TypeD</VALUE>
+<VALUE Lang="me" Index="4">TypeE</VALUE>
+<VALUE Lang="me" Index="5">TypeF</VALUE>
+<VALUE Lang="me" Index="6">TypeG</VALUE>
+<VALUE Lang="me" Index="7">TypeH</VALUE>
+<VALUE Lang="me" Index="8">TypeI</VALUE>
+<VALUE Lang="me" Index="9">TypeJ</VALUE>
+</WORD>
+<WORD Ver="1" Id="HAIR_NAME_FIGHTER">
+<VALUE Lang="me" Index="0">TypeA</VALUE>
+<VALUE Lang="me" Index="1">TypeB</VALUE>
+<VALUE Lang="me" Index="2">TypeC</VALUE>
+<VALUE Lang="me" Index="3">TypeD</VALUE>
+<VALUE Lang="me" Index="4">TypeE</VALUE>
+<VALUE Lang="me" Index="5">TypeF</VALUE>
+<VALUE Lang="me" Index="6">TypeG</VALUE>
+<VALUE Lang="me" Index="7">TypeH</VALUE>
+<VALUE Lang="me" Index="8">TypeI</VALUE>
+<VALUE Lang="me" Index="9">TypeJ</VALUE>
+</WORD>
+<WORD Ver="1" Id="HAIR_NAME_SPIRIT">
+<VALUE Lang="me" Index="0">TypeA</VALUE>
+<VALUE Lang="me" Index="1">TypeB</VALUE>
+<VALUE Lang="me" Index="2">TypeC</VALUE>
+<VALUE Lang="me" Index="3">TypeD</VALUE>
+<VALUE Lang="me" Index="4">TypeE</VALUE>
+<VALUE Lang="me" Index="5">TypeF</VALUE>
+<VALUE Lang="me" Index="6">TypeG</VALUE>
+<VALUE Lang="me" Index="7">TypeH</VALUE>
+<VALUE Lang="me" Index="8">TypeI</VALUE>
+<VALUE Lang="me" Index="9">TypeJ</VALUE>
+</WORD>
+<WORD Ver="1" Id="HAIRCOLORCARD_WINDOW_TITLE">
+<VALUE Lang="me" Index="0">Hair Color Card</VALUE>
+</WORD>
+<WORD Ver="1" Id="HAIRSTYLECARD_WINDOW_TITLE">
+<VALUE Lang="me" Index="0">Short Hair Style Card</VALUE>
+</WORD>
+<WORD Ver="1" Id="HELP_FILE">
+<VALUE Lang="Common" Index="0">Ran_Help.hlp</VALUE>
+<VALUE Lang="me" Index="0">Ran_Help.hlp</VALUE>
+</WORD>
+<WORD Ver="1" Id="HELP_WINDOW_STATIC">
+<VALUE Lang="me" Index="0">Assist</VALUE>
+</WORD>
+<WORD Ver="1" Id="HWOPTION_APPLYOK">
+<VALUE Lang="me" Index="0">Apply</VALUE>
+<VALUE Lang="me" Index="1">OK</VALUE>
+</WORD>
+<WORD Ver="1" Id="HWOPTION_AUDIO">
+<VALUE Lang="me" Index="0">SFX Volume</VALUE>
+<VALUE Lang="me" Index="1">Environment Sound Volume</VALUE>
+<VALUE Lang="me" Index="2">Music Volume</VALUE>
+</WORD>
+<WORD Ver="1" Id="HWOPTION_AV_NAME">
+<VALUE Lang="me" Index="0">Video</VALUE>
+<VALUE Lang="me" Index="1">Audio</VALUE>
+<VALUE Lang="me" Index="2">Play</VALUE>
+</WORD>
+<WORD Ver="1" Id="HWOPTION_DEFAULT_OPTION">
+<VALUE Lang="me" Index="0">User Default</VALUE>
+<VALUE Lang="me" Index="1">Low-grade</VALUE>
+<VALUE Lang="me" Index="2">intermediate-grade</VALUE>
+<VALUE Lang="me" Index="3">Advanced</VALUE>
+</WORD>
+<WORD Ver="1" Id="HWOPTION_GAMEPLAY_OPTION">
+<VALUE Lang="me" Index="0">Refuse Duel</VALUE>
+<VALUE Lang="me" Index="1">Refuse Trade</VALUE>
+<VALUE Lang="me" Index="2">Refuse Party</VALUE>
+<VALUE Lang="me" Index="3">HP Mini-gauge</VALUE>
+<VALUE Lang="me" Index="4">Refuse Friend</VALUE>
+<VALUE Lang="me" Index="5">Reset Manu-setting</VALUE>
+<VALUE Lang="me" Index="6">Transmit ChatWindow</VALUE>
+<VALUE Lang="me" Index="7">Help assist</VALUE>
+<VALUE Lang="me" Index="8">Auto Attack</VALUE>
+<VALUE Lang="me" Index="9">Name Display</VALUE>
+</WORD>
+<WORD Ver="1" Id="HWOPTION_VIDEO_OPTION">
+<VALUE Lang="me" Index="0">Display</VALUE>
+<VALUE Lang="me" Index="1">Shadow</VALUE>
+<VALUE Lang="me" Index="2">Detail</VALUE>
+<VALUE Lang="me" Index="3">Sight</VALUE>
+<VALUE Lang="me" Index="4">Effect</VALUE>
+<VALUE Lang="me" Index="5">BG Shadow</VALUE>
+<VALUE Lang="me" Index="6">Reflex</VALUE>
+<VALUE Lang="me" Index="7">Refract</VALUE>
+<VALUE Lang="me" Index="8">Glow</VALUE>
+<VALUE Lang="me" Index="9">Postprocessing</VALUE>
+<VALUE Lang="me" Index="10">Basic set</VALUE>
+<VALUE Lang="me" Index="11">Limit Frame</VALUE>
+</WORD>
+<WORD Ver="1" Id="HWOPTION_VIDEO_SHADOW">
+<VALUE Lang="me" Index="0">None</VALUE>
+<VALUE Lang="me" Index="1">Minimum Quality</VALUE>
+<VALUE Lang="me" Index="2">Low Quality</VALUE>
+<VALUE Lang="me" Index="3">Minium Quality</VALUE>
+<VALUE Lang="me" Index="4">High Quality</VALUE>
+</WORD>
+<WORD Ver="1" Id="HWOPTION_VIDEO_SIGHT">
+<VALUE Lang="me" Index="0">Close</VALUE>
+<VALUE Lang="me" Index="1">Normal</VALUE>
+<VALUE Lang="me" Index="2">Far</VALUE>
+</WORD>
+<WORD Ver="1" Id="HWOPTION_VIDEO_SKINDETAIL">
+<VALUE Lang="me" Index="0">Low</VALUE>
+<VALUE Lang="me" Index="1">Midium</VALUE>
+<VALUE Lang="me" Index="2">High</VALUE>
+</WORD>
+<WORD Ver="1" Id="HWOPTION_WINDOW_NAME_STATIC">
+<VALUE Lang="me" Index="0">Option</VALUE>
+</WORD>
+<WORD Ver="1" Id="INVEN_TAB_BUTTON">
+<VALUE Lang="me" Index="0">A</VALUE>
+<VALUE Lang="me" Index="1">B</VALUE>
+</WORD>
+<WORD Ver="1" Id="INVENTORY_NAME_STATIC">
+<VALUE Lang="me" Index="0">Equipment's Tool</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_ADDON_INFO">
+<VALUE Lang="me" Index="0">Blank</VALUE>
+<VALUE Lang="me" Index="1">Hit Rate</VALUE>
+<VALUE Lang="me" Index="2">Avoid Rate</VALUE>
+<VALUE Lang="me" Index="3">Attack</VALUE>
+<VALUE Lang="me" Index="4">Defence</VALUE>
+<VALUE Lang="me" Index="5">HP</VALUE>
+<VALUE Lang="me" Index="6">MP</VALUE>
+<VALUE Lang="me" Index="7">SP</VALUE>
+<VALUE Lang="me" Index="8">Pow</VALUE>
+<VALUE Lang="me" Index="9">Vit</VALUE>
+<VALUE Lang="me" Index="10">Int</VALUE>
+<VALUE Lang="me" Index="11">Dex</VALUE>
+<VALUE Lang="me" Index="12">Int</VALUE>
+<VALUE Lang="me" Index="13">Stm</VALUE>
+<VALUE Lang="me" Index="14">wrestle value</VALUE>
+<VALUE Lang="me" Index="15">Shoot Value</VALUE>
+<VALUE Lang="me" Index="16">Energy Value</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_ADVANCED_INFO">
+<VALUE Lang="me" Index="0">Attack</VALUE>
+<VALUE Lang="me" Index="1">Defence</VALUE>
+<VALUE Lang="me" Index="2">Attack distance</VALUE>
+<VALUE Lang="me" Index="3">Hits rate</VALUE>
+<VALUE Lang="me" Index="4">Avoid rate</VALUE>
+<VALUE Lang="me" Index="5">Set Type</VALUE>
+<VALUE Lang="me" Index="6">Type</VALUE>
+<VALUE Lang="me" Index="7">SP use</VALUE>
+<VALUE Lang="me" Index="8">energy's value</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_ADVANCED_INFO_ABNORMAL">
+<VALUE Lang="me" Index="0">Abnormad State of Mind</VALUE>
+<VALUE Lang="me" Index="1">Continuous time (second)</VALUE>
+<VALUE Lang="me" Index="2">Occurred Possibility(%)</VALUE>
+<VALUE Lang="me" Index="3">Number one</VALUE>
+<VALUE Lang="me" Index="4">Number two</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_ADVANCED_INFO_CONDITION">
+<VALUE Lang="me" Index="0">Grade</VALUE>
+<VALUE Lang="me" Index="1">westle's Value</VALUE>
+<VALUE Lang="me" Index="2">Fire's Value</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_ADVANCED_INFO_CONDITION_STATS">
+<VALUE Lang="me" Index="0">Pow</VALUE>
+<VALUE Lang="me" Index="1">Vit</VALUE>
+<VALUE Lang="me" Index="2">Int</VALUE>
+<VALUE Lang="me" Index="3">Dex</VALUE>
+<VALUE Lang="me" Index="4">Int</VALUE>
+<VALUE Lang="me" Index="5">Stm</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_ADVANCED_INFO_RESIST">
+<VALUE Lang="me" Index="0">Electric</VALUE>
+<VALUE Lang="me" Index="1">Fire</VALUE>
+<VALUE Lang="me" Index="2">Ice</VALUE>
+<VALUE Lang="me" Index="3">Poison</VALUE>
+<VALUE Lang="me" Index="4">Air</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_ADVANCED_INFO_SPECIAL">
+<VALUE Lang="me" Index="0">Special Function</VALUE>
+<VALUE Lang="me" Index="1">able to remodify a number of time</VALUE>
+<VALUE Lang="me" Index="2">unable to retransform</VALUE>
+<VALUE Lang="me" Index="3">able to retransform</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_ADVANCED_INFO_SPECIAL_ADD">
+<VALUE Lang="me" Index="0">Without</VALUE>
+<VALUE Lang="me" Index="1">Hp Recovery Rate</VALUE>
+<VALUE Lang="me" Index="2">MP Recovery Rate</VALUE>
+<VALUE Lang="me" Index="3">SP Recovery Rate</VALUE>
+<VALUE Lang="me" Index="4">HP+MP+SP Recovery Rate</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_ADVANCED_INFO_SPECIAL_ADD_VOL">
+<VALUE Lang="me" Index="0">Without</VALUE>
+<VALUE Lang="me" Index="1">HP Recovery</VALUE>
+<VALUE Lang="me" Index="2">MP Recovery</VALUE>
+<VALUE Lang="me" Index="3">SP Recovery</VALUE>
+<VALUE Lang="me" Index="4">HP+MP+SP Recovery</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_ADVANCED_INFO_SPECIAL_EX">
+<VALUE Lang="me" Index="0">EXP</VALUE>
+<VALUE Lang="me" Index="1">Rate Obtain</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_ALL_CLASS">
+<VALUE Lang="me" Index="0">All type</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_ARROW_INFO">
+<VALUE Lang="me" Index="0">Attack Power</VALUE>
+<VALUE Lang="me" Index="1">Quantity</VALUE>
+<VALUE Lang="me" Index="2">Grade</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_BASIC_INFO">
+<VALUE Lang="me" Index="0">Name</VALUE>
+<VALUE Lang="me" Index="1">Price</VALUE>
+<VALUE Lang="me" Index="2">Unable to peddle</VALUE>
+<VALUE Lang="me" Index="3">Costume</VALUE>
+<VALUE Lang="me" Index="4">doomsday</VALUE>
+<VALUE Lang="me" Index="5">Single prince</VALUE>
+<VALUE Lang="me" Index="6">Tax</VALUE>
+<VALUE Lang="me" Index="7">Costume's ended day</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_CALL_MAP">
+<VALUE Lang="me" Index="0">return map</VALUE>
+<VALUE Lang="me" Index="1">map coordinates </VALUE>
+<VALUE Lang="me" Index="2">no position data</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_CATEGORY">
+<VALUE Lang="me" Index="0">Essential Information</VALUE>
+<VALUE Lang="me" Index="1">Essential Attribute</VALUE>
+<VALUE Lang="me" Index="2">Factor</VALUE>
+<VALUE Lang="me" Index="3">Resistance</VALUE>
+<VALUE Lang="me" Index="4">Abnormal Statement</VALUE>
+<VALUE Lang="me" Index="5">Special Function</VALUE>
+<VALUE Lang="me" Index="6">Transform Information</VALUE>
+<VALUE Lang="me" Index="7">Recover Function</VALUE>
+<VALUE Lang="me" Index="8">Illustrate</VALUE>
+<VALUE Lang="me" Index="9">Description</VALUE>
+<VALUE Lang="me" Index="10">Add Value</VALUE>
+<VALUE Lang="me" Index="11">Random rate</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_CATEGORY_EX">
+<VALUE Lang="me" Index="0">Able to practice asceticism a number of time</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_EXPIRE_DATE">
+<VALUE Lang="me" Index="0">%02d/%02d/%02d %02d:%02d</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_GRIND_ALL_RESIST">
+<VALUE Lang="me" Index="0">All Resistance</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_NEEDSP">
+<VALUE Lang="me" Index="0">Addition SP's Consumption</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_PET_FULL">
+<VALUE Lang="me" Index="0">PET :</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_PET_INFO">
+<VALUE Lang="me" Index="0">▼PET Info▼</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_PET_NAME">
+<VALUE Lang="me" Index="0">PET Name:</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_PET_SKILLS">
+<VALUE Lang="me" Index="0">[This skill can use]</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_PET_SLOTA">
+<VALUE Lang="me" Index="0">ItemA:</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_PET_SLOTB">
+<VALUE Lang="me" Index="0">ItemB:</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_PET_TYPE">
+<VALUE Lang="me" Index="0">PET Type:</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_RANDOM_OPTION">
+<VALUE Lang="me" Index="1">Atk</VALUE>
+<VALUE Lang="me" Index="2">Def</VALUE>
+<VALUE Lang="me" Index="3">Hit Rate</VALUE>
+<VALUE Lang="me" Index="4">Energy Value</VALUE>
+<VALUE Lang="me" Index="5">HP Increase</VALUE>
+<VALUE Lang="me" Index="6">MP Increase</VALUE>
+<VALUE Lang="me" Index="7">SP Increase</VALUE>
+<VALUE Lang="me" Index="8">HP Increase Rate</VALUE>
+<VALUE Lang="me" Index="9">MP Increase Rate</VALUE>
+<VALUE Lang="me" Index="10">SP Increase Rate</VALUE>
+<VALUE Lang="me" Index="11">HP/MP/SP Increase Rate</VALUE>
+<VALUE Lang="me" Index="12">Atk Practice</VALUE>
+<VALUE Lang="me" Index="13">Def Practice</VALUE>
+<VALUE Lang="me" Index="14">Atk Range</VALUE>
+<VALUE Lang="me" Index="15">SP Consumption Amount</VALUE>
+<VALUE Lang="me" Index="16">Resistance</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_SKILL_CONDITION">
+<VALUE Lang="me" Index="0">Learned Skill's Book</VALUE>
+<VALUE Lang="me" Index="1">Point needed</VALUE>
+<VALUE Lang="me" Index="2">Skills</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_TURN_INFO">
+<VALUE Lang="me" Index="0">Quantity</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEM_USABLE">
+<VALUE Lang="me" Index="0">able to use</VALUE>
+<VALUE Lang="me" Index="1">unable to use</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEMBANK_NAME_STATIC">
+<VALUE Lang="me" Index="0">Item bank</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEMBANK_REFRESH_BUTTON">
+<VALUE Lang="me" Index="0">Refresh</VALUE>
+</WORD>
+<WORD Ver="1" Id="ITEMSHOP_WINDOW_STATIC">
+<VALUE Lang="me" Index="0">Item Shop</VALUE>
+</WORD>
+<WORD Ver="1" Id="KEYSETTING_APPLYOK">
+<VALUE Lang="me" Index="0">BasicSet</VALUE>
+<VALUE Lang="me" Index="1">Apply</VALUE>
+<VALUE Lang="me" Index="2">OK</VALUE>
+</WORD>
+<WORD Ver="1" Id="KEYSETTING_MENUSHOTCUT">
+<VALUE Lang="me" Index="0">Inventory ShortKey</VALUE>
+<VALUE Lang="me" Index="1">CharacterInfo ShortKey</VALUE>
+<VALUE Lang="me" Index="2">SkillInfo ShortKey</VALUE>
+<VALUE Lang="me" Index="3">Party ShortKey</VALUE>
+<VALUE Lang="me" Index="4">Quest ShortKey</VALUE>
+<VALUE Lang="me" Index="5">ClubInfo ShortKey</VALUE>
+<VALUE Lang="me" Index="6">FriendList ShortKey</VALUE>
+<VALUE Lang="me" Index="7">Minimap ShortKey</VALUE>
+<VALUE Lang="me" Index="8">ChatMacro ShortKey</VALUE>
+<VALUE Lang="me" Index="9">ItemBank ShortKey</VALUE>
+<VALUE Lang="me" Index="10">ItemShop Shortkey</VALUE>
+<VALUE Lang="me" Index="11">Run ShortKey</VALUE>
+<VALUE Lang="me" Index="12">Help ShortKey</VALUE>
+<VALUE Lang="me" Index="13">PetInfo ShortKey</VALUE>
+<VALUE Lang="me" Index="14">AttackMode ShortKey</VALUE>
+<VALUE Lang="me" Index="15">PkMode shortKey</VALUE>
+</WORD>
+<WORD Ver="1" Id="KEYSETTING_QUICKSKILL">
+<VALUE Lang="me" Index="0">SkillSlot ShortKey1</VALUE>
+<VALUE Lang="me" Index="1">SkillSlot ShortKey2</VALUE>
+<VALUE Lang="me" Index="2">SkillSlot ShortKey3</VALUE>
+<VALUE Lang="me" Index="3">SkillSlot ShortKey4</VALUE>
+<VALUE Lang="me" Index="4">SkillSlot ShortKey5</VALUE>
+<VALUE Lang="me" Index="5">SkillSlot ShortKey6</VALUE>
+<VALUE Lang="me" Index="6">SkillSlot ShortKey7</VALUE>
+<VALUE Lang="me" Index="7">SkillSlot ShortKey8</VALUE>
+<VALUE Lang="me" Index="8">SkillSlot ShortKey9</VALUE>
+<VALUE Lang="me" Index="9">SkillSlot ShortKey0</VALUE>
+</WORD>
+<WORD Ver="1" Id="KEYSETTING_QUICKSLOT">
+<VALUE Lang="me" Index="0">QuickSlot ShortKey1</VALUE>
+<VALUE Lang="me" Index="1">QuickSlot ShortKey2</VALUE>
+<VALUE Lang="me" Index="2">QuickSlot ShortKey3</VALUE>
+<VALUE Lang="me" Index="3">QuickSlot ShortKey4</VALUE>
+<VALUE Lang="me" Index="4">QuickSlot ShortKey5</VALUE>
+<VALUE Lang="me" Index="5">QuickSlot ShortKey6</VALUE>
+</WORD>
+<WORD Ver="1" Id="KEYSETTING_WINDOW_NAME_STATIC">
+<VALUE Lang="me" Index="0">GameKey Set</VALUE>
+</WORD>
+<WORD Ver="1" Id="LARGEMAP_WINDOW_STATIC">
+<VALUE Lang="me" Index="0">Map</VALUE>
+</WORD>
+<WORD Ver="1" Id="LOBY_BGM">
+<VALUE Lang="Common" Index="0">intro.ogg</VALUE>
+<VALUE Lang="me" Index="0">intro.ogg</VALUE>
+</WORD>
+<WORD Ver="1" Id="LOGIN_PAGE">
+<VALUE Lang="me" Index="0">Log In</VALUE>
+</WORD>
+<WORD Ver="1" Id="LOGIN_PAGE_IDPW">
+<VALUE Lang="me" Index="0">Username</VALUE>
+<VALUE Lang="me" Index="1">Password</VALUE>
+</WORD>
+<WORD Ver="1" Id="LOGIN_PAGE_IDSAVE_BACK">
+<VALUE Lang="me" Index="0">Saving's Account</VALUE>
+</WORD>
+<WORD Ver="1" Id="LOGIN_PAGE_OKCANCEL">
+<VALUE Lang="me" Index="0">Affirm</VALUE>
+<VALUE Lang="me" Index="1">Cancel</VALUE>
+</WORD>
+<WORD Ver="1" Id="MAPMOVE_OKBUTTON">
+<VALUE Lang="me" Index="0">Affirm</VALUE>
+</WORD>
+<WORD Ver="1" Id="MARKET_NAME_STATIC">
+<VALUE Lang="me" Index="0">Store</VALUE>
+</WORD>
+<WORD Ver="1" Id="MARKET_WINDOW_PAGE_BUTTON">
+<VALUE Lang="me" Index="0">Arms's Category</VALUE>
+<VALUE Lang="me" Index="1">Defend Tool Catergory</VALUE>
+<VALUE Lang="me" Index="2">Consumption Goods</VALUE>
+</WORD>
+<WORD Ver="1" Id="MINIPARTY_NAME_STATIC">
+<VALUE Lang="me" Index="0">Team</VALUE>
+</WORD>
+<WORD Ver="1" Id="MODAL_BUTTON">
+<VALUE Lang="me" Index="0">Affirm</VALUE>
+<VALUE Lang="me" Index="1">Abolish</VALUE>
+<VALUE Lang="me" Index="2">Yes</VALUE>
+<VALUE Lang="me" Index="3">No</VALUE>
+</WORD>
+<WORD Ver="1" Id="MODAL_TITLE">
+<VALUE Lang="me" Index="0">Announcement</VALUE>
+<VALUE Lang="me" Index="1">Question</VALUE>
+<VALUE Lang="me" Index="2">Warning</VALUE>
+<VALUE Lang="me" Index="3">Error</VALUE>
+<VALUE Lang="me" Index="4">Critical</VALUE>
+<VALUE Lang="me" Index="5">Enter</VALUE>
+</WORD>
+<WORD Ver="1" Id="MOVABLE_ON_CHAT_WINDOW">
+<VALUE Lang="me" Index="0">Be able use mouse to select item in the chatroom window</VALUE>
+</WORD>
+<WORD Ver="1" Id="NOT_USE_PREMIUM">
+<VALUE Lang="me" Index="0">Unable to Apply</VALUE>
+</WORD>
+<WORD Ver="1" Id="NOTIFY_NAME">
+<VALUE Lang="me" Index="0">Announcement</VALUE>
+</WORD>
+<WORD Ver="1" Id="P2PMENU">
+<VALUE Lang="me" Index="0">Trade Application</VALUE>
+<VALUE Lang="me" Index="1">Coded words log in</VALUE>
+<VALUE Lang="me" Index="2">Party Application</VALUE>
+<VALUE Lang="me" Index="3">Battle Application</VALUE>
+<VALUE Lang="me" Index="4">Add Friends Application</VALUE>
+<VALUE Lang="me" Index="5">Organization Participation's Application</VALUE>
+<VALUE Lang="me" Index="6">League Participation's Application</VALUE>
+</WORD>
+<WORD Ver="1" Id="PARTY_MODAL_CONDITION">
+<VALUE Lang="me" Index="0">Item Allocation</VALUE>
+<VALUE Lang="me" Index="1">Coin Allocation</VALUE>
+</WORD>
+<WORD Ver="1" Id="PARTY_MODAL_ITEM_OPTION">
+<VALUE Lang="me" Index="0">Contributor First</VALUE>
+<VALUE Lang="me" Index="1">Free</VALUE>
+<VALUE Lang="me" Index="2">Leader First</VALUE>
+<VALUE Lang="me" Index="3">By Sequence</VALUE>
+</WORD>
+<WORD Ver="1" Id="PARTY_MODAL_MONEY_OPTION">
+<VALUE Lang="me" Index="0">Contributor First</VALUE>
+<VALUE Lang="me" Index="1">Free</VALUE>
+<VALUE Lang="me" Index="2">Leader First</VALUE>
+<VALUE Lang="me" Index="3">equality</VALUE>
+</WORD>
+<WORD Ver="1" Id="PARTY_MODAL_OPTION">
+<VALUE Lang="me" Index="0">Contributor First</VALUE>
+<VALUE Lang="me" Index="1">Free</VALUE>
+<VALUE Lang="me" Index="2">Leader First</VALUE>
+<VALUE Lang="me" Index="3">By Sequence</VALUE>
+<VALUE Lang="me" Index="4">equality</VALUE>
+</WORD>
+<WORD Ver="1" Id="PARTY_MODAL_TITLE">
+<VALUE Lang="me" Index="0">Party's Application</VALUE>
+<VALUE Lang="me" Index="1">Party Application's Information</VALUE>
+</WORD>
+<WORD Ver="1" Id="PARTY_NAME_STATIC">
+<VALUE Lang="me" Index="0">Party</VALUE>
+</WORD>
+<WORD Ver="1" Id="PARTY_WINDOW_MASTER_MEMBER_STATIC">
+<VALUE Lang="me" Index="0">Party Leader</VALUE>
+<VALUE Lang="me" Index="1">Party Member</VALUE>
+</WORD>
+<WORD Ver="1" Id="PET_NAME_STATIC">
+<VALUE Lang="me" Index="0">PET</VALUE>
+<VALUE Lang="me" Index="1">PET Skill</VALUE>
+</WORD>
+<WORD Ver="1" Id="PET_REBIRTH_NAME_STATIC">
+<VALUE Lang="me" Index="0">宠物生成</VALUE>
+</WORD>
+<WORD Ver="1" Id="PET_TEXT_STATIC">
+<VALUE Lang="me" Index="0">Name</VALUE>
+<VALUE Lang="me" Index="1">Kind</VALUE>
+<VALUE Lang="me" Index="2">repletion</VALUE>
+<VALUE Lang="me" Index="3">loyalty</VALUE>
+<VALUE Lang="me" Index="4">Skill</VALUE>
+<VALUE Lang="me" Index="5">not exist</VALUE>
+</WORD>
+<WORD Ver="1" Id="PETCOLORCARD_WINDOW_TITLE">
+<VALUE Lang="me" Index="0">PET Color Card</VALUE>
+</WORD>
+<WORD Ver="1" Id="PETSTYLECARD_WINDOW_TITLE">
+<VALUE Lang="me" Index="0">PET Style Card</VALUE>
+</WORD>
+<WORD Ver="1" Id="PRIVATE_MARKET">
+<VALUE Lang="me" Index="0">Individual Store</VALUE>
+</WORD>
+<WORD Ver="1" Id="PRIVATE_MARKET_BUTTON">
+<VALUE Lang="me" Index="0">Begin</VALUE>
+<VALUE Lang="me" Index="1">End</VALUE>
+</WORD>
+<WORD Ver="1" Id="PRIVATE_MARKET_MAKE_BUTTON">
+<VALUE Lang="me" Index="0">OK</VALUE>
+<VALUE Lang="me" Index="1">cancel</VALUE>
+</WORD>
+<WORD Ver="1" Id="PRIVATE_MARKET_NAME_STATIC">
+<VALUE Lang="me" Index="0">Individual 's Store</VALUE>
+</WORD>
+<WORD Ver="1" Id="PRIVATE_MARKET_SELL_WINDOW_STATICTEXT">
+<VALUE Lang="me" Index="0">Unit Price</VALUE>
+<VALUE Lang="me" Index="1">Vending's Amount</VALUE>
+</WORD>
+<WORD Ver="1" Id="QUEST_ALARM">
+<VALUE Lang="Common" Index="0">06000196.wav</VALUE>
+<VALUE Lang="me" Index="0">06000196.wav</VALUE>
+</WORD>
+<WORD Ver="1" Id="QUEST_BEGIN_MONEY">
+<VALUE Lang="me" Index="0">Volume of Demand</VALUE>
+</WORD>
+<WORD Ver="1" Id="QUEST_COMPLETE">
+<VALUE Lang="me" Index="0">Fail</VALUE>
+<VALUE Lang="me" Index="1">Success</VALUE>
+</WORD>
+<WORD Ver="1" Id="QUEST_CONDITION">
+<VALUE Lang="me" Index="0">Requirement</VALUE>
+</WORD>
+<WORD Ver="1" Id="QUEST_CONDITION_TIME_UNIT">
+<VALUE Lang="me" Index="0">Hour</VALUE>
+<VALUE Lang="me" Index="1">Minute</VALUE>
+</WORD>
+<WORD Ver="1" Id="QUEST_GIFT">
+<VALUE Lang="me" Index="0">Experience</VALUE>
+<VALUE Lang="me" Index="1">Gold Coin</VALUE>
+<VALUE Lang="me" Index="2">Characteristic</VALUE>
+<VALUE Lang="me" Index="3">Living Point</VALUE>
+<VALUE Lang="me" Index="4">DisPK</VALUE>
+<VALUE Lang="me" Index="5">Technical Ability's Index</VALUE>
+<VALUE Lang="me" Index="6">ability's point</VALUE>
+<VALUE Lang="me" Index="7">Stage Prop</VALUE>
+<VALUE Lang="me" Index="8">Skill</VALUE>
+<VALUE Lang="me" Index="9">Mission's Requital.</VALUE>
+</WORD>
+<WORD Ver="1" Id="QUEST_LIST_BUTTON">
+<VALUE Lang="me" Index="0">Carry on a Mission</VALUE>
+<VALUE Lang="me" Index="1">Mission Completed</VALUE>
+<VALUE Lang="me" Index="2">Detail</VALUE>
+</WORD>
+<WORD Ver="1" Id="QUEST_MAIN_BUTTON">
+<VALUE Lang="me" Index="0">GiveUp</VALUE>
+<VALUE Lang="me" Index="1">Detail</VALUE>
+<VALUE Lang="me" Index="2">Forward</VALUE>
+<VALUE Lang="me" Index="3">complete</VALUE>
+<VALUE Lang="me" Index="4">Requital</VALUE>
+</WORD>
+<WORD Ver="1" Id="QUEST_MAIN_CONDITION">
+<VALUE Lang="me" Index="0">Time Retriction</VALUE>
+<VALUE Lang="me" Index="1">Number of People Retricton</VALUE>
+<VALUE Lang="me" Index="2">Immortal</VALUE>
+</WORD>
+<WORD Ver="1" Id="QUEST_MAIN_ITEM_TITLE">
+<VALUE Lang="me" Index="0">Mission's Item</VALUE>
+</WORD>
+<WORD Ver="1" Id="QUEST_STEP_BUTTON">
+<VALUE Lang="me" Index="0">Renounce</VALUE>
+<VALUE Lang="me" Index="1">Move Forward a Step</VALUE>
+</WORD>
+<WORD Ver="1" Id="QUEST_STEP_ITEM_TITLE">
+<VALUE Lang="me" Index="0">Mission's Item</VALUE>
+</WORD>
+<WORD Ver="1" Id="QUEST_TRYCOUNT">
+<VALUE Lang="me" Index="0">Number of time to carry out</VALUE>
+</WORD>
+<WORD Ver="1" Id="QUEST_WINDOW_STATIC">
+<VALUE Lang="me" Index="0">Mission</VALUE>
+</WORD>
+<WORD Ver="1" Id="QUICK_POTION_SHORTCUT">
+<VALUE Lang="me" Index="0">Q</VALUE>
+<VALUE Lang="me" Index="1">W</VALUE>
+<VALUE Lang="me" Index="2">E</VALUE>
+<VALUE Lang="me" Index="3">A</VALUE>
+<VALUE Lang="me" Index="4">S</VALUE>
+<VALUE Lang="me" Index="5">D</VALUE>
+</WORD>
+<WORD Ver="1" Id="QUIT_PARTY">
+<VALUE Lang="me" Index="0">Dismiss</VALUE>
+<VALUE Lang="me" Index="1">Withdraw</VALUE>
+</WORD>
+<WORD Ver="1" Id="REBIRTH_BUTTON">
+<VALUE Lang="me" Index="0">Revive</VALUE>
+<VALUE Lang="me" Index="1">Used Revive's Ball</VALUE>
+</WORD>
+<WORD Ver="1" Id="SECPASS_CHECKPAGE">
+<VALUE Lang="me" Index="0">2nd password confirmation</VALUE>
+</WORD>
+<WORD Ver="1" Id="SECPASS_CHECKPAGE_IDPW">
+<VALUE Lang="me" Index="0">ID</VALUE>
+<VALUE Lang="me" Index="1">Password</VALUE>
+</WORD>
+<WORD Ver="1" Id="SECPASS_CHECKPAGE_OKCANCEL">
+<VALUE Lang="me" Index="0">OK</VALUE>
+<VALUE Lang="me" Index="1">Cancel</VALUE>
+<VALUE Lang="me" Index="2">confirm</VALUE>
+</WORD>
+<WORD Ver="1" Id="SECPASS_SETPAGE">
+<VALUE Lang="me" Index="0">Setted 2nd PW</VALUE>
+</WORD>
+<WORD Ver="1" Id="SECPASS_SETPAGE_OKCANCEL">
+<VALUE Lang="me" Index="0">OK</VALUE>
+<VALUE Lang="me" Index="1">Cancel</VALUE>
+</WORD>
+<WORD Ver="1" Id="SECPASS_SETPAGE_PW">
+<VALUE Lang="me" Index="0">Password</VALUE>
+<VALUE Lang="me" Index="1">Re-confirm</VALUE>
+</WORD>
+<WORD Ver="1" Id="SELECT_CHANNEL">
+<VALUE Lang="Common" Index="0">Channel</VALUE>
+<VALUE Lang="me" Index="0">Channel</VALUE>
+</WORD>
+<WORD Ver="1" Id="SELECT_CHARACTER_CARD">
+<VALUE Lang="me" Index="0">Character Cards</VALUE>
+</WORD>
+<WORD Ver="1" Id="SELECT_CHARACTER_CARD_STATIC">
+<VALUE Lang="me" Index="0">Number of Cards</VALUE>
+<VALUE Lang="me" Index="1">Used Cards</VALUE>
+</WORD>
+<WORD Ver="1" Id="SELECT_CHARACTER_PAGE">
+<VALUE Lang="me" Index="0">Select Character</VALUE>
+</WORD>
+<WORD Ver="1" Id="SELECT_CHARACTER_PAGE_BUTTON">
+<VALUE Lang="me" Index="0">Create</VALUE>
+<VALUE Lang="me" Index="1">Start</VALUE>
+<VALUE Lang="me" Index="2">Delete</VALUE>
+<VALUE Lang="me" Index="3">Cancel</VALUE>
+</WORD>
+<WORD Ver="1" Id="SELECT_CHARACTER_STATIC">
+<VALUE Lang="me" Index="0">Exp</VALUE>
+<VALUE Lang="me" Index="1">Attribute</VALUE>
+<VALUE Lang="me" Index="2">Character Location</VALUE>
+</WORD>
+<WORD Ver="1" Id="SELECT_CHINA_AREA">
+<VALUE Lang="me" Index="0">Choice area</VALUE>
+</WORD>
+<WORD Ver="1" Id="SELECT_SERVER">
+<VALUE Lang="me" Index="0">Server select sheet</VALUE>
+</WORD>
+<WORD Ver="1" Id="SELECT_SERVER_CONNECTQUIT">
+<VALUE Lang="me" Index="0">Connect</VALUE>
+<VALUE Lang="me" Index="1">exit</VALUE>
+</WORD>
+<WORD Ver="1" Id="SERVER_CHANNEL">
+<VALUE Lang="me" Index="0">Channel</VALUE>
+</WORD>
+<WORD Ver="1" Id="SERVER_NAME">
+<VALUE Lang="me" Index="0">NULL</VALUE>
+</WORD>
+<WORD Ver="1" Id="SERVER_STATE">
+<VALUE Lang="me" Index="0">Smooth</VALUE>
+<VALUE Lang="me" Index="1">Normal</VALUE>
+<VALUE Lang="me" Index="2">Busy</VALUE>
+<VALUE Lang="me" Index="3">Full</VALUE>
+</WORD>
+<WORD Ver="1" Id="SERVER_TIME">
+<VALUE Lang="me" Index="0">Server time</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_ADVANCED_INFO">
+<VALUE Lang="me" Index="0">Skill</VALUE>
+<VALUE Lang="me" Index="1">Skill Level</VALUE>
+<VALUE Lang="me" Index="2">Skill Point</VALUE>
+<VALUE Lang="me" Index="3">Character Level</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_ADVANCED_INFO_STATS">
+<VALUE Lang="me" Index="0">Pow</VALUE>
+<VALUE Lang="me" Index="1">Vit</VALUE>
+<VALUE Lang="me" Index="2">Spi</VALUE>
+<VALUE Lang="me" Index="3">Dex</VALUE>
+<VALUE Lang="me" Index="4">Int</VALUE>
+<VALUE Lang="me" Index="5">Stm</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_ADVANCED_SAPPLY">
+<VALUE Lang="me" Index="0">Applicable type</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_ADVANCED_TARGET_RANGE">
+<VALUE Lang="me" Index="0">Target feasible distance</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_ADVANCED_USE_ITEM">
+<VALUE Lang="me" Index="0">Sword</VALUE>
+<VALUE Lang="me" Index="1">Blade</VALUE>
+<VALUE Lang="me" Index="2">Sword/Blade</VALUE>
+<VALUE Lang="me" Index="3">Dagger</VALUE>
+<VALUE Lang="me" Index="4">Spear</VALUE>
+<VALUE Lang="me" Index="5">club</VALUE>
+<VALUE Lang="me" Index="6">Fist</VALUE>
+<VALUE Lang="me" Index="7">Bow</VALUE>
+<VALUE Lang="me" Index="8">Throwing</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_ADVANCED_USE_ITEM_LR_HAND">
+<VALUE Lang="me" Index="0">Use Subsidiary's tool</VALUE>
+<VALUE Lang="me" Index="1">Use Principal's tool</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_BASIC_INFO">
+<VALUE Lang="me" Index="0">Name</VALUE>
+<VALUE Lang="me" Index="1">Level</VALUE>
+<VALUE Lang="me" Index="2">Characteristic</VALUE>
+<VALUE Lang="me" Index="3">Occupation</VALUE>
+<VALUE Lang="me" Index="4">Character Level</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_CATEGORY">
+<VALUE Lang="me" Index="0">Essential Information</VALUE>
+<VALUE Lang="me" Index="1">Applied item</VALUE>
+<VALUE Lang="me" Index="2">Essential Attribute</VALUE>
+<VALUE Lang="me" Index="3">Applied Consumption amount</VALUE>
+<VALUE Lang="me" Index="4">Abnormal Statement</VALUE>
+<VALUE Lang="me" Index="5">Appended Effect</VALUE>
+<VALUE Lang="me" Index="6">Special Effect</VALUE>
+<VALUE Lang="me" Index="7">Escalate Factor</VALUE>
+<VALUE Lang="me" Index="8">Description</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_CDATA_CVL_BASIC">
+<VALUE Lang="me" Index="0">Delay</VALUE>
+<VALUE Lang="me" Index="1">Time continuous</VALUE>
+<VALUE Lang="me" Index="2">Applicable range</VALUE>
+<VALUE Lang="me" Index="3">Applicable Quantity</VALUE>
+<VALUE Lang="me" Index="4">Applicable perspective</VALUE>
+<VALUE Lang="me" Index="5">Penetrate Level</VALUE>
+<VALUE Lang="me" Index="6">Target Quantities.</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_CDATA_CVL_BASIC_USE_VALUE">
+<VALUE Lang="me" Index="0">Amount of Arrows' Consumption</VALUE>
+<VALUE Lang="me" Index="1">Amount of magic incantations's Consumption</VALUE>
+<VALUE Lang="me" Index="2">Amount of the Experience's Consumption</VALUE>
+<VALUE Lang="me" Index="3">Amount of of the HP's Consumption</VALUE>
+<VALUE Lang="me" Index="4">Amount of of the MP's Consumption</VALUE>
+<VALUE Lang="me" Index="5">Amount of of the SP's Consumption.</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_ETC_MASTER">
+<VALUE Lang="me" Index="0">Proficient Skill</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_NAME_STATIC">
+<VALUE Lang="me" Index="0">Technical ability</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_NEXTLEVEL">
+<VALUE Lang="me" Index="0">Next Level</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_SLOT">
+<VALUE Lang="me" Index="0">Rank</VALUE>
+<VALUE Lang="me" Index="1">Passive</VALUE>
+<VALUE Lang="me" Index="2">Point Needed</VALUE>
+<VALUE Lang="me" Index="3">Grade</VALUE>
+<VALUE Lang="me" Index="4">Master</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_SPEC_TYPE">
+<VALUE Lang="me" Index="0">Fuction</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_STATE_BLOW">
+<VALUE Lang="me" Index="0">Occurred Possibility</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_TAB_INFO">
+<VALUE Lang="Common" Index="0">F1</VALUE>
+<VALUE Lang="me" Index="0">F1</VALUE>
+<VALUE Lang="Common" Index="1">F2</VALUE>
+<VALUE Lang="me" Index="1">F2</VALUE>
+<VALUE Lang="Common" Index="2">F3</VALUE>
+<VALUE Lang="me" Index="2">F3</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_TAB_TITLE_ARCHER">
+<VALUE Lang="me" Index="0">Rapid Fire</VALUE>
+<VALUE Lang="me" Index="1">Powerful Bow</VALUE>
+<VALUE Lang="me" Index="2">Qi</VALUE>
+<VALUE Lang="me" Index="3">Etc</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_TAB_TITLE_ARMS">
+<VALUE Lang="me" Index="0">Dex</VALUE>
+<VALUE Lang="me" Index="1">Int</VALUE>
+<VALUE Lang="me" Index="2">Str</VALUE>
+<VALUE Lang="me" Index="3">Etc</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_TAB_TITLE_EXTREME_M">
+<VALUE Lang="me" Index="0">Skill1</VALUE>
+<VALUE Lang="me" Index="1">Skill2</VALUE>
+<VALUE Lang="me" Index="2">Skill3</VALUE>
+<VALUE Lang="me" Index="3">Passive</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_TAB_TITLE_EXTREME_W">
+<VALUE Lang="me" Index="0">Skill1</VALUE>
+<VALUE Lang="me" Index="1">Skill2</VALUE>
+<VALUE Lang="me" Index="2">Skill3</VALUE>
+<VALUE Lang="me" Index="3">Passive</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_TAB_TITLE_FIGHTER">
+<VALUE Lang="me" Index="0">Dex</VALUE>
+<VALUE Lang="me" Index="1">Str</VALUE>
+<VALUE Lang="me" Index="2">Int</VALUE>
+<VALUE Lang="me" Index="3">Etc</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_TAB_TITLE_SPIRIT">
+<VALUE Lang="me" Index="0">Str</VALUE>
+<VALUE Lang="me" Index="1">Attack</VALUE>
+<VALUE Lang="me" Index="2">Support</VALUE>
+<VALUE Lang="me" Index="3">Etc</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_TEXTURE">
+<VALUE Lang="Common" Index="0">4</VALUE>
+<VALUE Lang="me" Index="0">4</VALUE>
+<VALUE Lang="Common" Index="1">skill_Archer.dds</VALUE>
+<VALUE Lang="me" Index="1">skill_Archer.dds</VALUE>
+<VALUE Lang="Common" Index="2">skill_Fighter.dds</VALUE>
+<VALUE Lang="me" Index="2">skill_Fighter.dds</VALUE>
+<VALUE Lang="Common" Index="3">skill_Knight.dds</VALUE>
+<VALUE Lang="me" Index="3">skill_Knight.dds</VALUE>
+<VALUE Lang="Common" Index="4">skill_Magic.dds</VALUE>
+<VALUE Lang="me" Index="4">skill_Magic.dds</VALUE>
+</WORD>
+<WORD Ver="1" Id="SKILL_WINDOW_REST_POINT_STATIC">
+<VALUE Lang="me" Index="0">Skill point's earning</VALUE>
+</WORD>
+<WORD Ver="1" Id="STORAGE_CARD_NUMBER">
+<VALUE Lang="me" Index="0">Number2</VALUE>
+<VALUE Lang="me" Index="1">Number 3</VALUE>
+<VALUE Lang="me" Index="2">Number4</VALUE>
+</WORD>
+<WORD Ver="1" Id="STORAGE_NAME_STATIC">
+<VALUE Lang="me" Index="0">Warehouse</VALUE>
+</WORD>
+<WORD Ver="1" Id="STORAGE_TIMELEFT_ONELINE">
+<VALUE Lang="me" Index="0">%d Year %d Month %d Day %d Time %d Minute only</VALUE>
+</WORD>
+<WORD Ver="1" Id="STORAGE_USABLE">
+<VALUE Lang="me" Index="0">Being apply</VALUE>
+<VALUE Lang="me" Index="1">unable to apply</VALUE>
+</WORD>
+<WORD Ver="1" Id="SUBMASTER_OPTION">
+<VALUE Lang="me" Index="0">Powers</VALUE>
+<VALUE Lang="me" Index="1">Join</VALUE>
+<VALUE Lang="me" Index="2">Expel</VALUE>
+<VALUE Lang="me" Index="3">Announment</VALUE>
+<VALUE Lang="me" Index="4">Badge Amendment</VALUE>
+<VALUE Lang="me" Index="5">Authentication of Leadership Organization</VALUE>
+</WORD>
+<WORD Ver="1" Id="SYSTEM_MESSAGE_FADE">
+<VALUE Lang="Common" Index="0">9.0</VALUE>
+<VALUE Lang="me" Index="0">9.0</VALUE>
+<VALUE Lang="Common" Index="1">3.0</VALUE>
+<VALUE Lang="me" Index="1">3.0</VALUE>
+<VALUE Lang="Common" Index="2">120.0</VALUE>
+<VALUE Lang="me" Index="2">120.0</VALUE>
+</WORD>
+<WORD Ver="1" Id="TIP_FILE">
+<VALUE Lang="Common" Index="0">tip.txt</VALUE>
+<VALUE Lang="me" Index="0">tip.txt</VALUE>
+</WORD>
+<WORD Ver="1" Id="TRADE_NAME_STATIC">
+<VALUE Lang="me" Index="0">Transaction</VALUE>
+</WORD>
+<WORD Ver="1" Id="TRADE_OKCANCEL_BUTTON">
+<VALUE Lang="me" Index="0">Accept</VALUE>
+<VALUE Lang="me" Index="1">Refuse</VALUE>
+</WORD>
+<WORD Ver="1" Id="TRADEINVENTORY_NAME_STATIC">
+<VALUE Lang="me" Index="0">Equipment's Tool</VALUE>
+</WORD>
+<WORD Ver="1" Id="UNLIMITED">
+<VALUE Lang="me" Index="0">Infinite</VALUE>
+</WORD>
+<WORD Ver="1" Id="WAITSERVER_CANCELBUTTON">
+<VALUE Lang="me" Index="0">Cancel</VALUE>
+</WORD>
+<WORD Ver="1" Id="WAITSERVER_OKBUTTON">
+<VALUE Lang="me" Index="0">Affirm</VALUE>
+</WORD>
+<WORD Ver="1" Id="WAITSERVER_TIMELEFT_UNIT">
+<VALUE Lang="me" Index="0">Second</VALUE>
+</WORD>
+<WORD Ver="1" Id="WEAR_ITEM">
+<VALUE Lang="me" Index="0">Current Equipment</VALUE>
+</WORD>
+</TEXT>
