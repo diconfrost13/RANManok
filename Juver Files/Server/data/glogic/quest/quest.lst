@@ -1,0 +1,671 @@
+//Quest List
+//	ID	file		quest name
+QUEST	0	00001S.qst	//Student's Registration 
+QUEST	1	00001H.qst	//Student's Registration 
+QUEST	2	00001B.qst	//Student's Registration 
+QUEST	3	00004S.qst	//Student's Registration 
+QUEST	4	00004H.qst	//Student's Registration 
+QUEST	5	00004B.qst	//Student's Registration 
+QUEST	6	00007S.qst	//Student's Registration 
+QUEST	7	00007H.qst	//Student's Registration 
+QUEST	8	00007B.qst	//Student's Registration 
+QUEST	9	00010S.qst	//Student's Registration 
+QUEST	10	00010H.qst	//Student's Registration 
+QUEST	11	00010B.qst	//Student's Registration 
+QUEST	12	00015S.qst	//Student Director's Test
+QUEST	13	00015H.qst	//Student Director's Test
+QUEST	14	00015B.qst	//Student Director's Test
+QUEST	15	00016S.qst	//Nurse's Request
+QUEST	16	00016H.qst	//Nurse's Request
+QUEST	17	00016B.qst	//Nurse's Request
+QUEST	18	00022.qst	//The Force Field Authentication
+QUEST	19	00020.qst	//The Force Field Authentication
+QUEST	20	00021.qst	//The Force Field Authentication
+QUEST	21	00023.qst	//The Force Field Authentication
+QUEST	22	00024S.qst	//Heading outside the Campus
+QUEST	23	00024.qst	//Skill Testing System
+QUEST	24	00024H.qst	//Heading outside the Campus
+QUEST	25	00024B.qst	//Heading outside the Campus
+QUEST	26	00002_1S.qst	//Introduction to New Students
+QUEST	27	00003_1S.qst	//Attain Level 5
+QUEST	28	00005_1S.qst	//Attain Level 8
+QUEST	29	00005_2S.qst	//Attain Level 11
+QUEST	30	00018S.qst	//Improvised Medicines
+QUEST	31	00018H.qst	//Improvised Medicines
+QUEST	32	00018B.qst	//Improvised Medicines
+QUEST	33	00019S.qst	//Stolen Bandages
+QUEST	34	00019H.qst	//Stolen Bandages
+QUEST	35	00019B.qst	//Stolen Bandages
+QUEST	36	00017_1S.qst	//Obtain the Special Broom
+QUEST	37	00017_2S.qst	//Cleaning the Dormitory
+QUEST	38	00017_1H.qst	//Obtain the Special Broom
+QUEST	39	00017_2H.qst	//Cleaning the Dormitory
+QUEST	40	00017_1B.qst	//Obtain the Special Broom
+QUEST	41	00017_2B.qst	//Cleaning the Dormitory
+QUEST	42	00005_3S.qst	//Attain Level 14
+QUEST	43	QUEST_43Verification.qst	//Battle Abilities Verification VI
+QUEST	44	00025.qst	//Purifying Study Classroom Center 1
+QUEST	45	00005_5S.qst	//Attain Level 20
+QUEST	46	QUEST_hooligan.qst	//Cap Reward Quest 
+QUEST	47	QUEST_47Verification2.qst	//Battle Abilities Verification VII
+QUEST	48	00029.qst	//Purifying Study Classroom Center 2
+QUEST	49	00030_S.qst	//학생주임의 호출
+QUEST	50	00030_H.qst	//학생주임의 호출
+QUEST	51	00030_B.qst	//학생주임의 호출
+QUEST	52	00033.qst	//Purifying the History Center
+QUEST	53	QUEST_53_verify3.qst	//Battle Abilities Verification VIII
+QUEST	54	QUEST_54_Sheldon.qst	//Defeat Researchers Quest
+QUEST	55	QUEST_55_FREE.qst	//Free Spiritual Sphere
+QUEST	60	00041.qst	//Purifying the Society Room
+QUEST	61	155lv_Fighter.qst	//Suspicious Folk Present
+QUEST	62	155lv_Archer.qst	//Suspicious Folk Present
+QUEST	63	155lv_Medic.qst	//Suspicious Folk Present
+QUEST	64	00045.qst	//Clearing the Science Classroom
+QUEST	65	155lv_Knight.qst	//Suspicious Folk Present
+QUEST	68	00053.qst	//Purifying the Sports Field
+QUEST	72	00057.qst	//The Force Field Authentication
+QUEST	73	00058.qst	//The Force Field Authentication
+QUEST	74	00059.qst	//The Force Field Authentication
+QUEST	75	00060.qst	//The Force Field Authentication
+QUEST	78	00063.qst	//Purifying the Study Classroom Center 2
+QUEST	82	00067.qst	//Purifying the Study Classroom Center 2
+QUEST	86	00071.qst	//Purifying the Art Center
+QUEST	90	00075.qst	//Purifying the Art Center 2
+QUEST	98	00083.qst	//Purifying the Library 2
+QUEST	102	00087.qst	//Purifying the Sports Field
+QUEST	106	00091.qst	//Purifying the Students Center 1
+QUEST	110	00095.qst	//Purifying the Students Center 1
+QUEST	114	00098_1.qst	//Purifying the Main Campus Entrance
+QUEST	118	00099.qst	//Force Field authentication
+QUEST	119	00100.qst	//The Force Field Authentication
+QUEST	120	00101.qst	//Force Field Authentication
+QUEST	121	00102.qst	//The Force Field Authentication
+QUEST	123	00103.qst	//Finding the Scriptural
+QUEST	124	00105.qst	//Purifying the Study Classroom Center 2
+QUEST	128	00109.qst	//Purifying the Study Classroom Center 1
+QUEST	132	00113.qst	//Purifying the Renovation Center
+QUEST	136	00117.qst	//Purifying the Science Center
+QUEST	140	00121.qst	//Purifying the Practice Center
+QUEST	144	00125.qst	//Purifying the Laboratory
+QUEST	148	00129.qst	//Purifying the Auxiliary Supplies Room
+QUEST	152	00132_1.qst	//Purifying the Auxiliary Supplies Room
+QUEST	156	00132_5.qst	//Purifying the Auxiliary Supplies Room
+QUEST	160	00133.qst	//Guard's Request
+QUEST	161	00134.qst	//Guard's Request 2
+QUEST	162	00135.qst	//Guard's Request 3
+QUEST	166	00139.qst	//Bus Driver's Request
+QUEST	167	00140.qst	//Bus Driver's Request 2
+QUEST	168	00141.qst	//Construction Supervisor's Request
+QUEST	172	00146.qst	//The Physics Teacher's Call
+QUEST	173	00147.qst	//The Physics Teacher's Test
+QUEST	174	00148.qst	//Unverified Currency Notes
+QUEST	175	00234.qst	//Issue the Order Books
+QUEST	179	00238_1.qst	//Recycling the Map
+QUEST	183	00239_1.qst	//Recycling the Unverified Currency Notes 
+QUEST	184	00149.qst	//Nurse's Request
+QUEST	185	00150.qst	//Nurse's Request 2
+QUEST	190	00155.qst	//Cleaner's Request
+QUEST	192	00157.qst	//Test by the Technical Teacher 
+QUEST	196	00170.qst	//Guard's Request
+QUEST	197	00171.qst	//Guard's Request 2
+QUEST	198	00172.qst	//Guard's Request 3
+QUEST	202	00173.qst	//Bus Driver's Request
+QUEST	203	00174.qst	//Bus Driver's Request 2
+QUEST	204	00175.qst	//Construction Supervisor's Request
+QUEST	208	00180.qst	//The Physics Teacher's Call
+QUEST	209	00181.qst	//The Physics Teacher's Test
+QUEST	210	00182.qst	//Unverified Currency Notes
+QUEST	211	00243.qst	//Issue the Order Books
+QUEST	215	00247_1.qst	//Recycling the Map
+QUEST	219	00248_1.qst	//Recycling the Unverified Currency Notes 
+QUEST	220	00183.qst	//Nurse's Request
+QUEST	226	00189.qst	//Cleaner's Request
+QUEST	228	00191.qst	//Technical Teacher's Test
+QUEST	232	00195.qst	//Eliminate the Hell Scissors
+QUEST	236	00199.qst	//Guard's Request
+QUEST	237	00200.qst	//Guard's Request 2
+QUEST	238	00201.qst	//Guard's Request 3
+QUEST	242	00205.qst	//Bus Driver's Request 
+QUEST	243	00206.qst	//Bus Driver's Request 2
+QUEST	244	00207.qst	//Construction Supervisor's Request
+QUEST	248	00212.qst	//The Physics Teacher's Call
+QUEST	249	00213.qst	//The Physics Teacher's Test
+QUEST	250	00214.qst	//Unverified Currency Notes
+QUEST	251	00252.qst	//Issue the Order Books
+QUEST	255	00256_1.qst	//Recycling the Map
+QUEST	256	00253_S.qst	//신입 등록 기념용 빵 지급
+QUEST	257	00253_H.qst	//신입 등록 기념용 빵 지급
+QUEST	258	00253_B.qst	//신입 등록 기념용 빵 지급
+QUEST	259	00257_1.qst	//Recycling the Unverified Currency Notes 
+QUEST	260	00215.qst	//Nurse's Request
+QUEST	261	1_000S.qst	//망각의 약 재료 입수
+QUEST	262	1_000H.qst	//망각의 약 재료 입수
+QUEST	263	1_000B.qst	//망각의 약 재료 입수
+QUEST	264	1_000S_1.qst	//망각의 약 재료 입수
+QUEST	265	1_000H_1.qst	//망각의 약 재료 입수
+QUEST	266	00221.qst	//Cleaner's Request
+QUEST	267	1_000B_1.qst	//망각의 약 재료 입수
+QUEST	268	00223.qst	//Technical Teacher's Test
+QUEST	272	00227.qst	//Eliminate the Car Engineer
+QUEST	276	00161.qst	//Eliminate the Freezing Halogen
+QUEST	280	00165.qst	//Eliminate the Bomber Clown
+QUEST	284	00169.qst	//Eliminate the Jackson
+QUEST	285	00261.qst	//Special Agent's Request
+QUEST	287	00263.qst	//Investigate the Leonair Campus 
+QUEST	291	00267.qst	//Investigate the Leonair Campus Main Center
+QUEST	292	00268.qst	//Spirit's Request
+QUEST	295	00271.qst	//Recover the Videotape
+QUEST	297	00273.qst	//The Zopar's request 
+QUEST	298	00267_1.qst	//Transmitting the Videotape
+QUEST	299	00274.qst	//Request by Mr.No-Name
+QUEST	301	00277.qst	//Videotape Recovery
+QUEST	302	00278.qst	//Through the Tunnel
+QUEST	303	00278_1.qst	//Image Expert's Request
+QUEST	304	00278_2.qst	//Image Expert's Request
+QUEST	305	00278_3.qst	//Image Expert's Request
+QUEST	306	00278_4.qst	//Image Expert's Request
+QUEST	307	00279.qst	//Obtain the Leonair College ID Card
+QUEST	309	00282.qst	//The Basement 2 of Leonair Campus
+QUEST	310	00282_1.qst	//Cleaning the Spores
+QUEST	311	00283.qst	//Producing the Medications for the Allergy
+QUEST	312	00284S.qst	//The Videotape Recovery 
+QUEST	313	00284H.qst	//The Videotape Recovery
+QUEST	314	00284B.qst	//The Videotape Recovery 
+QUEST	315	00286_1.qst	//Training Order
+QUEST	316	00286_2.qst	//Training Order
+QUEST	317	00286_3.qst	//Training Order
+QUEST	318	00286_4.qst	//Training Order
+QUEST	319	00288_1.qst	//The Lessons of the Brawler Agent
+QUEST	320	00288_2.qst	//The Lessons of the Sword Agent
+QUEST	321	00288_3.qst	//The Lessons of the Archery Agent
+QUEST	322	00288_4.qst	//The Lessons of the Shaman Agent
+QUEST	323	00289.qst	//Report to the Police Station
+QUEST	324	00290.qst	//Recycling the Letter
+QUEST	325	00291.qst	//The Police's Request
+QUEST	326	00292.qst	//Investigate the Experimental Object
+QUEST	327	00293.qst	//Collect the Food
+QUEST	328	00294_1.qst	//Cleaning the Streets
+QUEST	329	00294_2.qst	//Collecting Empty Bottles
+QUEST	330	00295_1.qst	//The Stolen Book
+QUEST	331	00295_2.qst	//The Stolen Book
+QUEST	332	00295_3.qst	//The Stolen Book
+QUEST	333	00295_4.qst	//The Stolen Book
+QUEST	334	00296_1.qst	//The Stolen Book 2
+QUEST	335	00296_2.qst	//The Stolen Book 2
+QUEST	336	00296_3.qst	//The Stolen Book 2
+QUEST	337	00296_4.qst	//The Stolen Book 2
+QUEST	338	00297_1.qst	//The Stolen Book 3
+QUEST	339	00297_2.qst	//The Stolen Book 3
+QUEST	340	00297_3.qst	//The Stolen Book 3
+QUEST	341	00297_4.qst	//The Stolen Book 3
+QUEST	342	00298_1.qst	//The Stolen Book 4
+QUEST	343	00298_2.qst	//The Stolen Book 4
+QUEST	344	00298_3.qst	//The Stolen Book 4
+QUEST	345	00298_4.qst	//The Stolen Book 4
+QUEST	346	00299.qst	//The Stolen Book 5
+QUEST	347	00300.qst	//Finding the Warehouse Key
+QUEST	348	00301.qst	//Returning the Trash
+QUEST	349	00302.qst	//Confiscating the Golf Clubs
+QUEST	350	00303.qst	//Resident's Request
+QUEST	361	00360.qst	//Finding the Truck's Key
+QUEST	362	00361.qst	//Recycling the Gasoline
+QUEST	363	00362.qst	//Repairing the Truck
+QUEST	364	00363.qst	//Visiting the Old Man
+QUEST	365	00364.qst	//Water Quality Check
+QUEST	366	00365.qst	//Repairing the Generator
+QUEST	367	00367.qst	//The Videotape of Green Secret Headquarters
+QUEST	368	00368.qst	//The Videotape Recovery
+QUEST	369	00369.qst	//Confiscation of Smuggled Goods
+QUEST	370	00370.qst	//Catching Smugglers
+QUEST	371	00371.qst	//Investigating the Building
+QUEST	372	00372.qst	//Investigate the Green's Secret Headquarters
+QUEST	373	00373.qst	//The "Green" Secret Foothold
+QUEST	374	00374.qst	//The 2nd Floor of the "Green" Secret Foothold
+QUEST	375	00375.qst	//The 3rd Floor of the "Green" Secret Foothold
+QUEST	376	00376.qst	//Returning the Evidence
+QUEST	377	00377_1.qst	//The Guard's Request
+QUEST	378	00377_2.qst	//The Guard's Request
+QUEST	379	00377_3.qst	//The Guard's Request
+QUEST	380	00377_4.qst	//The Guard's Request
+QUEST	381	00378.qst	//The First Test
+QUEST	382	00379.qst	//The Second Test
+QUEST	383	00380.qst	//The Final Test
+QUEST	384	00381.qst	//File Report on Found Objects
+QUEST	385	00382.qst	//Sacred Financial Group Private Jail
+QUEST	386	00383.qst	//Report Violent Criminals
+QUEST	387	00384.qst	//Obtain the List of Prisoners
+QUEST	388	00385.qst	//Report on Prison Escapees
+QUEST	389	00386.qst	//Weapon Shop Owner
+QUEST	390	00390_1.qst	//Retrieve Scammed Weapons
+QUEST	391	00391_1.qst	//Looking for Friends
+QUEST	392	00391_2.qst	//Looking for Friends
+QUEST	393	00391_3.qst	//Looking for Friends
+QUEST	394	00391_4.qst	//Look for friends
+QUEST	395	00392.qst	//Check if the Weapon Shop Owner's friend is hurt
+QUEST	396	00394.qst	//Collect back Confidential Documents
+QUEST	397	00395.qst	// Confirm Security of Middle Hole
+QUEST	401	00396.qst	//Investigate on the Case
+QUEST	402	00397.qst	//Repair Walkie Talkies
+QUEST	403	00398.qst	//Fixed Walkie Talkies
+QUEST	404	00400.qst	//Rescue Police Companion
+QUEST	405	00401.qst	//Request of the Police
+QUEST	406	00402_1.qst	//Report Status of Jail
+QUEST	407	00402_2.qst	//Report Status of Jail
+QUEST	408	00402_3.qst	//Report Status of Jail
+QUEST	409	00402_4.qst	//Report Status of Jail
+QUEST	410	00403.qst	//Investigate the Jail
+QUEST	411	00404.qst	//Prepare the Final Report
+QUEST	413	00405.qst	//Unlock Security Device
+QUEST	417	00406.qst	//Look for the Suspect
+QUEST	418	00407.qst	// Look for the Backpack Key
+QUEST	419	00408.qst	// Identify the Letter Pad
+QUEST	420	00412.qst	//Vertify Sacred Financial Group HQ Building
+QUEST	421	00413_s.qst	//Convince Sacred Gate Student Director
+QUEST	422	00413_h.qst	//Convince Mystic Peak Student Director
+QUEST	423	00413_b.qst	//Convince Phoenix Student Director
+QUEST	424	00414.qst	//Verify Ang Bee Lan
+QUEST	425	00415.qst	//Confirm with the Old Man
+QUEST	426	a00426.qst	//Collecting the Cards
+QUEST	427	a00427.qst	//Collecting the Cards 2
+QUEST	428	a00428.qst	//Collecting the Cards 3
+QUEST	429	a00429.qst	//Collecting the Cards 4
+QUEST	430	00410.qst	//Enter Root Hole
+QUEST	431	00411.qst	//Assess the Root Hole
+QUEST	433	00390_2.qst	//Retrieve Scammed Weapons
+QUEST	434	00390_3.qst	//Retrieve Scammed Weapons
+QUEST	435	00390_4.qst	//Retrieve Scammed Weapons
+QUEST	436	a00431.qst	// Test ability to execute II
+QUEST	437	a00432.qst	//Test ability to execute III
+QUEST	438	a00430.qst	//Test ability to execute
+QUEST	439	a00433.qst	//Make Special Ring
+QUEST	450	00416.qst	//Collecting the Items
+QUEST	454	a00435.qst	//Use of Special Ring
+QUEST	455	a00434.qst	//Use of Special Ring
+QUEST	500	00500.qst	//Mysterious Sacred Financial Group 
+QUEST	501	00501.qst	//Community service of Saint Financial Group
+QUEST	502	00502.qst	//Behind the truth of Saint Financial Group
+QUEST	504	00504.qst	//Entrance of Saint Financial Group Head Office
+QUEST	505	00505.qst	//Memory of the document
+QUEST	506	00506.qst	//Recovery of Document
+QUEST	507	00507.qst	//Find the Password
+QUEST	508	00508.qst	//Second document Recovery
+QUEST	509	00509.qst	//To Head Office 50F
+QUEST	510	00510.qst	//Third document Recovery
+QUEST	511	00511.qst	//To Head Office 90F
+QUEST	512	00512.qst	//Fourth document Recovery
+QUEST	513	00513.qst	//Passing over 90F
+QUEST	514	00514.qst	//Where the time stops 1 
+QUEST	515	00515.qst	//Investigation of Director Room 
+QUEST	516	00516.qst	//Laboratory in underground
+QUEST	517	00517.qst	//Investigation of Underground
+QUEST	518	00518.qst	//Find Laboratory
+QUEST	519	00519.qst	//Assemble of the eight signs of divine 
+QUEST	520	00520_f.qst	//Secret of Freshman
+QUEST	521	00520_k.qst	//Secret of Freshman
+QUEST	522	00520_a.qst	//Secret of Freshman
+QUEST	523	00520_m.qst	//Secret of Freshman
+QUEST	524	00520_h_f.qst	//Secret of Freshman
+QUEST	525	00520_h_k.qst	//Secret of Freshman
+QUEST	526	00520_h_a.qst	//Secret of Freshman
+QUEST	527	00520_h_m.qst	//Secret of Freshman
+QUEST	528	00520_b_f.qst	//Secret of Freshman
+QUEST	529	00520_b_k.qst	//Secret of Freshman
+QUEST	530	00520_b_a.qst	//Secret of Freshman
+QUEST	531	00520_b_m.qst	//Secret of Freshman
+QUEST	532	00521.qst	//Favor of Seung Hee Yeon 
+QUEST	533	00522.qst	//Completion of the eight signs of divine 
+QUEST	534	00523.qst	//Where the time stops 2
+QUEST	535	00524.qst	//Activation of the eight signs of divine
+QUEST	536	00525.qst	//To Another World..
+QUEST	537	00526.qst	//Truth of Director and Ending
+QUEST	538	00527.qst	//Investigation of Artificial Heart Power Generator
+QUEST	539	00528_s.qst	//Help for Freshman
+QUEST	540	00528_h.qst	//Help for Freshman
+QUEST	541	00528_b.qst	//Help for Freshman
+QUEST	542	00529_s.qst	//Help for Freshman 2
+QUEST	543	00529_h.qst	//Help for Freshman 2
+QUEST	544	00529_b.qst	//Help for Freshman 2
+QUEST	545	00530_s.qst	//Help for Freshman 3
+QUEST	546	00530_h.qst	//Help for Freshman 3
+QUEST	547	00530_b.qst	//Help for Freshman 3
+QUEST	548	00531.qst	//Find the stolen Dry Ice
+QUEST	549	00532.qst	//Collection of Old book
+QUEST	550	00533.qst	//Withdrawal of Security Guard ID card
+QUEST	551	00534.qst	//Gathering the upgrade tool
+QUEST	555	00535_K.qst	//Gathering Information before the Incident 
+QUEST	556	00535_A.qst	//Gathering Information before the Incident 
+QUEST	557	00535_F.qst	//Gathering Information before the Incident 
+QUEST	558	00535_M.qst	//Gathering Information before the Incident 
+QUEST	561	00538.qst	//Rescue the civilian 
+QUEST	562	00539.qst	//Investigation of the dead police 
+QUEST	563	00540.qst	//Withdrawal of fireworks
+QUEST	564	00541.qst	//Action on Spell Defensive Mechanism 
+QUEST	565	00565.qst	//Collect a Bead II
+QUEST	566	Q_0566.qst	//Collecting Sphere III
+QUEST	567	Q_0567.qst	//Searching the Documents
+QUEST	568	E_0568.qst	//Battle Abilities Verification I
+QUEST	569	E_0569.qst	//Battle Abilities Verification II
+QUEST	570	E_0570.qst	//Battle Abilities Verification III
+QUEST	571	E_0571.qst	//Battle Abilities Verification IV
+QUEST	572	E_0572.qst	//Battle Abilities Verification V
+QUEST	601	00600_S.qst	//Look for the mystery student.
+QUEST	602	00600_H.qst	//Look for the mysterious student.
+QUEST	603	00600_B.qst	//Look for the mysterious student.
+QUEST	604	00601.qst	//Achieve level 30
+QUEST	606	00603.qst	//Achieve level 50 
+QUEST	607	00604.qst	//Achieve level 60 
+QUEST	608	00605.qst	//Achieved level 70
+QUEST	609	00606.qst	//Achieve level 80
+QUEST	610	00607.qst	//Achieve level 90
+QUEST	611	00608.qst	//Achieve level 100
+QUEST	612	00609.qst	//Achieve level 110 
+QUEST	613	00610.qst	//Achieve level 120
+QUEST	614	00611.qst	//Achieve level 130
+QUEST	615	00612.qst	//Achieve level 140
+QUEST	616	00613.qst	//Achieve level 150
+QUEST	617	00614.qst	//Achieve level 160
+QUEST	618	00615.qst	//Achieve level 170
+QUEST	619	00616.qst	//Achieve level 180
+QUEST	620	00617.qst	//Achieve level 190
+QUEST	621	00618.qst	//Defeat the First Blood 
+QUEST	622	00619.qst	//Defeat the Swordie Ardee
+QUEST	623	00620.qst	//Defeat the Drunkard 
+QUEST	624	00621_S.qst	//Defeat the Cement Fatty
+QUEST	625	00621_H.qst	//Defeat the Cement Fatty
+QUEST	626	00621_B.qst	//Defeat the Cement Fatty
+QUEST	627	00622.qst	//Defeat the Uncle Potato
+QUEST	628	00623.qst	//Defeat the Miner Fatty
+QUEST	629	00624.qst	//Defeat the Fatty Bom-Bom
+QUEST	630	00625.qst	//Defeat Construction Fatty
+QUEST	631	00626.qst	//Defeat the Sacred Gate Defender
+QUEST	632	00627.qst	//Defeat the Bomber Clown
+QUEST	633	00628_S.qst	//Deliver letter to Campus. 
+QUEST	634	00628_H.qst	//Deliver letter to Campus
+QUEST	635	00628_B.qst	//Deliver letter to Campus
+QUEST	636	00629.qst	//Investigate the mysterious student. 
+QUEST	637	00630.qst	//Acquired for information
+QUEST	638	00631.qst	//Deliver a Letter
+QUEST	639	00632.qst	//Sharing Abilities
+QUEST	640	00633.qst	//Defeat the Mummy
+QUEST	641	00634.qst	//Defeat the Cripple Guy.
+QUEST	642	00635.qst	//Defeat the Skating Boy
+QUEST	643	00636.qst	//Defeat the Got Milk
+QUEST	644	00637.qst	//Investigate Student 
+QUEST	645	00638.qst	//Investigate Student
+QUEST	646	00639.qst	//Investigate Student
+QUEST	647	00640.qst	//Defeat the Mad Teacher. 
+QUEST	648	00641.qst	//Collect the Equip Accessory
+QUEST	649	00642.qst	//Defeat the Loose Halogen
+QUEST	650	00643.qst	//Defeat the Hodel
+QUEST	651	00644.qst	//Defeat Fiery Aunty
+QUEST	652	00645.qst	//Leonine Campus Semester Test 
+QUEST	653	00646.qst	//Defeat the Golf Player
+QUEST	654	00647.qst	//Collect Equip Accessory
+QUEST	655	00648.qst	//Defeat Trapper Plant
+QUEST	656	00649.qst	//Defeat Fisherman
+QUEST	657	00650.qst	//Search for Accessory
+QUEST	658	00651.qst	//Defeat Vicious Sailor
+QUEST	659	00652.qst	//Search for Accessory
+QUEST	660	00653.qst	//Accepting Semester Test 
+QUEST	661	00654.qst	//Request For Assessment 
+QUEST	662	00656.qst	//Deliver Message 
+QUEST	663	00657.qst	//Deliver Message
+QUEST	664	00658.qst	//Defeat Totoy Bato
+QUEST	665	00659.qst	//Defeat Nightmare Clown.
+QUEST	666	00660.qst	//Collect Accessory
+QUEST	667	00661.qst	//Defeat Light Inducer 
+QUEST	668	00662.qst	//Collect Financial Group information 
+QUEST	669	00663.qst	//Look for Amanuoruoyin Research Diary
+QUEST	670	00664.qst	//Look for  Chui Yin Xi뭩 Research Diary
+QUEST	671	00665.qst	//Delivering information
+QUEST	672	00666.qst	//Study Amanuoruoyin's Information. 
+QUEST	673	00667.qst	//Study yin's information 
+QUEST	674	00668.qst	//Delivering the proposal 
+QUEST	675	00669.qst	//Delivering the proposal 
+QUEST	676	00670.qst	//Seek for Hong Ji Yoon support 
+QUEST	677	00671.qst	//Persuade Amanuoruoyin. 
+QUEST	678	00672.qst	//Delivering the Thank You Letter 
+QUEST	679	00673.qst	//Collect the Accessory. 
+QUEST	680	00674.qst	//Collect Accessory
+QUEST	681	00675.qst	//Seek for Design Layout 
+QUEST	682	00402_5.qst	//Report The Status.
+QUEST	683	00402_6.qst	//Report the Status  
+QUEST	684	00676.qst	//Look for Amanuoruoyin
+QUEST	690	00192.qst	//Seek for the Seal
+QUEST	691	00E120.qst	//Accept clothing from  Chui Yin Xi 
+QUEST	692	00677.qst	//Seek For Ancient Item. 
+QUEST	693	00678.qst	//Finding Research Document
+QUEST	701	S0001.qst	//Eliminate Boss - Chief Hooligan
+QUEST	702	S0002.qst	//Eliminate Boss - Bandit Leader
+QUEST	703	S0003.qst	//Eliminate Boss - Notorious Junkie
+QUEST	704	S0004.qst	//Eliminate Boss - Master Fencer
+QUEST	705	S0005.qst	//Eliminate Boss - Brute Mauler
+QUEST	706	S0006.qst	//Eliminate Boss - Bruiser
+QUEST	707	S0007.qst	//Eliminate Boss - Furious Chef
+QUEST	708	S0008.qst	//Eliminate Boss - Welding Master
+QUEST	709	S0009.qst	//Eliminate Boss - Obasan
+QUEST	710	S0010.qst	//Eliminate Boss - Sanitizer Master
+QUEST	711	S0011.qst	//Eliminate Boss - Blood Robber
+QUEST	712	00712.qst	//Campus Event I
+QUEST	713	00713.qst	//Campus Event II
+QUEST	714	00714.qst	//Campus Event III
+QUEST	715	00715.qst	//The Unknown Design
+QUEST	716	00716.qst	//Making Accessories I
+QUEST	717	00717.qst	//Campus Event IV
+QUEST	718	00718.qst	//Making Accessories II
+QUEST	719	00719.qst	//Weapon Research
+QUEST	720	00720.qst	//Making Accessories III
+QUEST	721	00721.qst	//School Service
+QUEST	722	00722.qst	//Monisha's Experiment I
+QUEST	723	00723.qst	//Monisha's Experiment II
+QUEST	724	00724.qst	//The Modest Student
+QUEST	730	00730.qst	//Searching for the lost friend
+QUEST	731	00731.qst	//Monisha's Request
+QUEST	732	00732.qst	//The Mysterious Girl
+QUEST	733	00733.qst	//The Spy
+QUEST	734	00734.qst	//Finding Lucian's Location
+QUEST	735	00735.qst	//The Truth
+QUEST	736	00736.qst	//The Current Situation
+QUEST	737	00737.qst	//Eliminating Monsters
+QUEST	738	00738.qst	//The Hunter's Trail
+QUEST	739	00739.qst	//A Friend's Request
+QUEST	740	00740.qst	//Deliver Benu's Letter
+QUEST	741	00741.qst	//A letter for Yun's leader
+QUEST	742	00742.qst	//Eliminating Monsters
+QUEST	743	00743.qst	//Eliminating Monsters
+QUEST	744	00744.qst	//Eliminating Monsters
+QUEST	745	00745.qst	//Eliminating Monsters
+QUEST	746	00746.qst	//Eliminating Monsters
+QUEST	747	00747.qst	//The Mysterious Girl
+QUEST	748	00748.qst	//The Missing Junior
+QUEST	749	00749.qst	//The Letter of Recommendation
+QUEST	750	00750.qst	//So Sung Il's Request
+QUEST	751	00751.qst	//So Sung Il's 2nd Request
+QUEST	752	00752.qst	//Siu Er's Research
+QUEST	753	00753.qst	//The Mysterious Ring I.
+QUEST	754	00754.qst	//The Mysterious Ring II.
+QUEST	755	00755.qst	//Reach Level 30
+QUEST	756	00756.qst	//Be a top student
+QUEST	760	00760.qst	//Finding Jack
+QUEST	801	E0001.qst	//Request of Ami (C)
+QUEST	802	E0002.qst	//Request of Ami (B)
+QUEST	803	E0003.qst	//Request of Ami (A)
+QUEST	804	E0004.qst	//Request of Ami (S)
+QUEST	811	E0004_w.qst	//Request of Ami (S)
+QUEST	814	ExpLevelbonus.qst	//Compensation Level
+QUEST	901	Q0001.qst	//The Chinese test in Classroom 1-1.
+QUEST	902	Q0002.qst	//1-1교실의 수학시험
+QUEST	903	Q0003.qst	//1-1교실의 영어시험
+QUEST	905	Q0005.qst	//1-1교실의 과학시험
+QUEST	907	Q0007.qst	//1-1교실의 란 온라인시험
+QUEST	908	Q0008.qst	//1-1교실의 사회시험
+QUEST	911	Q0011.qst	//The Chinese Answer Sheet Quest 1-1
+QUEST	912	Q0011_2.qst	//1-1 수학 반성문 퀘스트
+QUEST	913	Q0011_3.qst	//1-1 영어 반성문 퀘스트
+QUEST	914	Q0011_4.qst	//1-1 란 온라인 반성문 퀘스트
+QUEST	915	Q0011_5.qst	//1-1 사회 반성문 퀘스트
+QUEST	916	Q0011_6.qst	//1-1 과학 반성문 퀘스트
+QUEST	921	Q0001_02.qst	//The Chinese test in class 1-2
+QUEST	922	Q0001_03.qst	//1-3교실의 국어시험
+QUEST	923	Q0001_04.qst	//1-4교실의 국어시험
+QUEST	924	Q0001_05.qst	//1-5교실의 국어시험
+QUEST	925	Q0001_06.qst	//1-6교실의 국어시험
+QUEST	926	Q0001_07.qst	//1-7교실의 국어시험
+QUEST	927	Q0001_08.qst	//1-8교실의 국어시험
+QUEST	928	Q0001_09.qst	//1-9교실의 국어시험
+QUEST	929	Q0001_10.qst	//1-10교실의 국어시험
+QUEST	931	Q0002_02.qst	//1-2교실의 수학시험
+QUEST	932	Q0002_03.qst	//1-3교실의 수학시험
+QUEST	933	Q0002_04.qst	//1-4교실의 수학시험
+QUEST	934	Q0002_05.qst	//1-5교실의 수학시험2
+QUEST	935	Q0002_06.qst	//1-6교실의 수학시험2
+QUEST	936	Q0002_07.qst	//1-7교실의 수학시험2
+QUEST	937	Q0002_08.qst	//1-8교실의 수학시험2
+QUEST	938	Q0002_09.qst	//1-9교실의 수학시험2
+QUEST	939	Q0002_10.qst	//1-10교실의 수학시험2
+QUEST	941	Q0003_02.qst	//1-2교실의 영어시험
+QUEST	942	Q0003_03.qst	//1-3교실의 영어시험
+QUEST	943	Q0003_04.qst	//1-4교실의 영어시험
+QUEST	944	Q0003_05.qst	//1-5교실의 영어시험
+QUEST	945	Q0003_06.qst	//1-6교실의 영어시험
+QUEST	946	Q0003_07.qst	//1-7교실의 영어시험
+QUEST	947	Q0003_08.qst	//1-8교실의 영어시험
+QUEST	948	Q0003_09.qst	//1-9교실의 영어시험
+QUEST	949	Q0003_10.qst	//1-10교실의 영어시험
+QUEST	961	Q0005_02.qst	//1-2교실의 과학시험
+QUEST	962	Q0005_03.qst	//1-3교실의 과학시험
+QUEST	963	Q0005_04.qst	//1-4교실의 과학시험
+QUEST	964	Q0005_05.qst	//1-5교실의 과학시험
+QUEST	965	Q0005_06.qst	//1-6교실의 과학시험
+QUEST	966	Q0005_07.qst	//1-7교실의 과학시험
+QUEST	967	Q0005_08.qst	//1-8교실의 과학시험
+QUEST	968	Q0005_09.qst	//1-9교실의 과학시험
+QUEST	969	Q0005_10.qst	//1-10교실의 과학시험
+QUEST	991	Q0007_02.qst	//1-2교실의 란 온라인시험
+QUEST	992	Q0007_03.qst	//1-3교실의 란 온라인시험
+QUEST	993	Q0007_04.qst	//1-4교실의 란 온라인시험
+QUEST	995	Q0008_02.qst	//1-2교실의 사회시험
+QUEST	996	Q0008_03.qst	//1-3교실의 사회시험
+QUEST	997	Q0008_04.qst	//1-4교실의 사회시험
+QUEST	999	rantto.qst	//주화를 찾아라
+QUEST	1001	Q0012.qst	//1-2 국어 반성문 퀘스트
+QUEST	1002	Q0012_2.qst	//1-2 수학 반성문 퀘스트
+QUEST	1003	Q0012_3.qst	//1-2 영어 반성문 퀘스트
+QUEST	1004	Q0012_4.qst	//1-2 란 온라인 반성문 퀘스트
+QUEST	1005	Q0012_5.qst	//1-2 사회 반성문 퀘스트
+QUEST	1006	Q0012_6.qst	//1-2 과학 반성문 퀘스트
+QUEST	1011	Q0013.qst	//1-3 국어 반성문 퀘스트
+QUEST	1012	Q0013_2.qst	//1-3 수학 반성문 퀘스트
+QUEST	1013	Q0013_3.qst	//1-3 영어 반성문 퀘스트
+QUEST	1014	Q0013_4.qst	//1-3 란 온라인 반성문 퀘스트
+QUEST	1015	Q0013_5.qst	//1-3 사회 반성문 퀘스트
+QUEST	1016	Q0013_6.qst	//1-3 과학 반성문 퀘스트
+QUEST	1021	Q0014.qst	//1-4 국어 반성문 퀘스트
+QUEST	1022	Q0014_2.qst	//1-4 수학 반성문 퀘스트
+QUEST	1023	Q0014_3.qst	//1-4 영어 반성문 퀘스트
+QUEST	1024	Q0014_4.qst	//1-4 란 온라인 반성문 퀘스트
+QUEST	1025	Q0014_5.qst	//1-4 사회 반성문 퀘스트
+QUEST	1026	Q0014_6.qst	//1-4 과학 반성문 퀘스트
+QUEST	1031	Q0015.qst	//1-5 국어 반성문 퀘스트
+QUEST	1032	Q0015_2.qst	//1-5 수학 반성문 퀘스트
+QUEST	1033	Q0015_3.qst	//1-5 영어 반성문 퀘스트
+QUEST	1036	Q0015_6.qst	//1-5 과학 반성문 퀘스트
+QUEST	1041	Q0016.qst	//1-6 국어 반성문 퀘스트
+QUEST	1042	Q0016_2.qst	//1-6 수학 반성문 퀘스트
+QUEST	1043	Q0016_3.qst	//1-6 영어 반성문 퀘스트
+QUEST	1046	Q0016_6.qst	//1-6 과학 반성문 퀘스트
+QUEST	1051	Q0017.qst	//1-7 국어 반성문 퀘스트
+QUEST	1052	Q0017_2.qst	//1-7 수학 반성문 퀘스트
+QUEST	1053	Q0017_3.qst	//1-7 영어 반성문 퀘스트
+QUEST	1056	Q0017_6.qst	//1-7 과학 반성문 퀘스트
+QUEST	1061	Q0018.qst	//1-8 국어 반성문 퀘스트
+QUEST	1062	Q0018_2.qst	//1-8 수학 반성문 퀘스트
+QUEST	1063	Q0018_3.qst	//1-8 영어 반성문 퀘스트
+QUEST	1066	Q0018_6.qst	//1-8 과학 반성문 퀘스트
+QUEST	1071	Q0019.qst	//1-9 국어 반성문 퀘스트
+QUEST	1072	Q0019_2.qst	//1-9 수학 반성문 퀘스트
+QUEST	1073	Q0019_3.qst	//1-9 영어 반성문 퀘스트
+QUEST	1076	Q0019_6.qst	//1-9 과학 반성문 퀘스트
+QUEST	1081	Q0020.qst	//1-10 국어 반성문 퀘스트
+QUEST	1082	Q0020_2.qst	//1-10 수학 반성문 퀘스트
+QUEST	1083	Q0020_3.qst	//1-10 영어 반성문 퀘스트
+QUEST	1086	Q0020_6.qst	//1-10 과학 반성문 퀘스트
+QUEST	1186	A0022_s.qst	//Residents' Request
+QUEST	1187	A0022_h.qst	//Residents' Request
+QUEST	1188	A0022_b.qst	//Residents' Request
+QUEST	1189	A0023K_s.qst	//Find the Missing Report Cards
+QUEST	1190	A0023K_h.qst	//Find the Missing Report Cards
+QUEST	1191	A0023K_b.qst	//Find the Missing Report Cards
+QUEST	1192	A0023F_s.qst	//Find the Missing Report Cards
+QUEST	1193	A0023F_h.qst	//Find the Missing Report Cards
+QUEST	1194	A0023F_b.qst	//Find the Missing Report Cards
+QUEST	1195	A0023A_s.qst	//Find the Missing Report Cards
+QUEST	1196	A0023A_h.qst	//Find the Missing Report Cards
+QUEST	1197	A0023A_b.qst	//Find the Missing Report Cards
+QUEST	1198	A0023M_s.qst	//Find the Missing Report Cards
+QUEST	1199	A0023M_h.qst	//Find the Missing Report Cards
+QUEST	1200	A0023M_b.qst	//Find the Missing Report Cards
+QUEST	1201	A0024.qst	//To Achieve Mission Level 120
+QUEST	1202	A0025.qst	//Search for the Criminal
+QUEST	1203	A0026.qst	//Searching for the Evidence
+QUEST	1204	A0027.qst	//Searching for the First Aid Kit
+QUEST	1205	A0030.qst	//Through Tunnel No.3 
+QUEST	1206	A0031.qst	//Reward for Prison Escapees
+QUEST	1207	A0032.qst	//Look for the Missing Persons
+QUEST	1208	A0033.qst	//Reward for Prison Escapees
+QUEST	1209	A0034.qst	//Reward for Prison Escapees
+QUEST	1210	A0035.qst	//Collect back Fake Certificate
+QUEST	1211	A0036.qst	//Collect back Counterfeit Money
+QUEST	1212	A0037.qst	//Reward for Prison Escapees
+QUEST	1213	A0038_s.qst	//Deliver the News
+QUEST	1214	A0038_h.qst	//Deliver the News
+QUEST	1215	A0038_b.qst	//Deliver the News
+QUEST	1216	00409.qst	//Deliver Important Message
+QUEST	1219	A0039.qst	//Collect back Counterfeit Money
+QUEST	1220	A0040_01.qst	//Advance Physics Teacher's Test
+QUEST	1221	A0040_02.qst	//Advance Physics Teacher's Test
+QUEST	1222	A0040_03.qst	//Advance Physics Teacher's Test
+QUEST	1223	A0041.qst	//Reward for Prison Escapees
+QUEST	1224	A0042.qst	//Reward for Prison Escapees
+QUEST	1225	A0043.qst	//Reward for Prison Escapees
+QUEST	1226	A0044.qst	//Collect Back Bullet Pellets
+QUEST	1227	A0045.qst	//Obtain Weather Info
+QUEST	2000	55555.qst	//Dragon Boat Event
+QUEST	2004	Olympic.qst	//메달을 쏴라!!
+QUEST	2024	QUEST_E_2008_DragonBoat.qst	//Catch the Chonggie
+QUEST	2040	QUEST_2040.qst	//Oblivion E Event
+QUEST	2041	MyRosso1-1.qst	//Surprising Bonus(1-1)
+QUEST	2042	MyRosso1-2.qst	//Surprising Bonus(1-2)
+QUEST	2043	MyRosso1-3.qst	//Surprising Bonus(1-3)
+QUEST	2044	MyRosso1-4.qst	//Surprising Bonus(1-4)
+QUEST	2045	MyRosso1-5.qst	//Surprising Bonus(1-5)
+QUEST	2046	MyRosso1-6.qst	//Surprising Bonus(1-6)
+QUEST	2047	MyRosso1-7.qst	//Surprising Bonus(1-7)
+QUEST	2048	MyRosso2-1.qst	//Surprising Bonus(2-1)
+QUEST	2049	MyRosso2-2.qst	//Surprising Bonus(2-2)
+QUEST	2050	MyRosso2-3.qst	//Surprising Bonus(2-3)
+QUEST	2051	MyRosso2-4.qst	//Surprising Bonus(2-4)
+QUEST	2052	MyRosso2-5.qst	//Surprising Bonus(2-5)
+QUEST	2053	MyRosso2-6.qst	//Surprising Bonus(2-6)
+QUEST	2054	MyRosso2-7.qst	//Surprising Bonus(2-7)
+QUEST	2055	MyRosso2-8.qst	//Surprising Bonus(2-8)
+QUEST	2056	MyRosso3-1.qst	//Surprising Bonus(3-1)
+QUEST	2057	MyRosso4-1.qst	//Surprising Bonus(4-1)
+QUEST	2058	MyRosso4-2.qst	//Surprising Bonus(4-2)
+QUEST	2059	MyRosso4-3.qst	//Surprising Bonus(4-3)
+QUEST	2060	MyRosso4-4.qst	//Surprising Bonus(4-4)
+QUEST	2061	QUEST_summer2k19.qst	//Summer Event!
+QUEST	2062	QUEST_summer2k192.qst	//Summer Event! GT Weapon Swordie
+QUEST	2063	QUEST_summer2k193.qst	//Summer Event! GT Weapon Brawler
+QUEST	2064	QUEST_SUMMER2K194.qst	//Summer Event! GT Weapon Archer
+QUEST	2065	QUEST_summer2k195.qst	//Summer Event! GT Weapon Shaman
+QUEST	2066	QUEST_46.qst	//The Covenant of love
+QUEST	2067	QUEST_47.qst	//Cap event Armors & Weapon
+QUEST	2068	QUEST_48.qst	//Cap event Armors & Weapon
+QUEST	2069	QUEST_49.qst	//Cap event Armors & Weapon
+QUEST	2070	QUEST_nine.qst	//Nine Tails
+QUEST	2071	QUEST_2071.qst	//Free Change School
+QUEST	2072	QUEST_2072.qst	//Free Change School
+QUEST	2073	QUEST_2073.qst	//Free Change School
+QUEST	2074	QUEST_2074.qst	//Free Change School
+QUEST	2075	QUEST_2076.qst	//2nd Anniversary Quest

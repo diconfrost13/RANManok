@@ -1,0 +1,73 @@
+Press the left mouse button to attack.
+;
+Press the mouse wheel button 
+to rotate the view.
+;
+Scroll the mouse wheel 
+to zoom in and out.
+;
+Press 'T' to view the quest information.
+;
+Press 'M' to view the map window.
+;
+Press 'R' to switch between 
+walk and run mode.
+;
+Press 'Tab' to maximize/minimize 
+the item shortcut menu 
+at the top left of the screen.
+;
+Press '`' to maximize/minimize 
+the skill shortcut menu 
+at the left of the screen.
+;
+Press 'H' to view the online help window.
+;
+Press 'I' to view the inventory window.
+;
+Drag the item that stack together 
+to an empty space will split it.
+;
+Put the potion from the inventory 
+to the item shortcut menu at the top left, 
+and the potion can be used by pressing 
+the shortcut key.
+;
+Move while holding down the 'Alt' button 
+to ignore the influence of monsters and 
+private markets.
+;
+Hold down 'Alt' to pick up item 
+without being influenced by the surrounding.
+;
+Attack monsters while holding 'Ctrl' 
+will activate the auto attack function.
+;
+Press 'C' to view the character information.
+;
+Press 'K' to view the skill information.
+;
+Require to purchase the skill books 
+from the class trainers in order 
+to learn skills.
+;
+Put the skills from the skill window 
+to the skill shortcut menu at the left, 
+and the skill can be used by pressing 
+the 1 ~ 0 shortcut key.
+;
+Press the right mouse button to use the skill.
+;
+Select the other character by holding down 
+'Shift' and press the left mouse button 
+to view the menu on that character.
+;
+Press 'X' to switch between 
+combat and non-combat mode.
+;
+Holding 'Ctrl' while purchase item 
+to purchase the item fast and no need 
+to go through the confirmation.
+;
+Press space bar to pick up item.
+;
